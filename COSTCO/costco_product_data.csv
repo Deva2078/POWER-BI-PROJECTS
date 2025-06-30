@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,unit_price,cogs
+PROD-001,Physical Federal,Electronics,Tablets,522.61,280.74
+PROD-002,Hospital Woman,Electronics,Smartphones,947.5,462.96
+PROD-003,Player Party,Electronics,Tablets,804.2,397.24
+PROD-004,Pass Arrive,Clothing,Jackets,79.11,33.16
+PROD-005,Write Father,Furniture,Sofas,133.03,76.69
+PROD-006,Change Finally,Electronics,Headphones,472.45,254.77
+PROD-007,Drive Training,Furniture,Tables,543.61,339.62
+PROD-008,Them Walk,Books,Children's,733.46,362.02
+PROD-009,Blood Point,Home Goods,Lighting,991.84,619.27
+PROD-010,Pay Law,Furniture,Chairs,274.25,176.86
+PROD-011,Laugh Nothing,Home Goods,Kitchenware,103.13,57.09
+PROD-012,Win Expect,Furniture,Beds,927.85,474.12
+PROD-013,Democrat Worry,Toys,Puzzles,17.94,8.51
+PROD-014,Explain Catch,Books,Children's,137.22,70.14
+PROD-015,Study Light,Clothing,Shirts,587.09,377.5
+PROD-016,Up Imagine,Books,Children's,662.25,305.32
+PROD-017,Guy Hotel,Home Goods,Bedding,47.72,24.22
+PROD-018,Anything Great,Clothing,Shoes,946.0,618.37
+PROD-019,Sister Letter,Furniture,Tables,580.55,247.33
+PROD-020,Different View,Furniture,Beds,657.09,324.3
+PROD-021,Different Tend,Toys,Board Games,936.97,461.37
+PROD-022,Whole Truth,Electronics,Smartphones,840.58,521.46
+PROD-023,Generation Together,Clothing,Shirts,50.41,33.05
+PROD-024,Main Particular,Clothing,Shirts,703.82,372.01
+PROD-025,Here Response,Home Goods,Lighting,103.83,61.77
+PROD-026,Time Institution,Clothing,Shirts,379.15,155.61
+PROD-027,Remember Political,Books,Comics,314.52,189.22
+PROD-028,Fund Blood,Home Goods,Kitchenware,627.82,265.24
+PROD-029,Language Pull,Home Goods,Decor,155.45,67.16
+PROD-030,Follow Themselves,Books,Children's,30.25,16.94
+PROD-031,Support Stock,Toys,Dolls,970.74,585.3
+PROD-032,Our Someone,Toys,Action Figures,981.89,408.87
+PROD-033,Sea Article,Books,Comics,475.53,215.19
+PROD-034,Positive Want,Clothing,Pants,556.38,279.87
+PROD-035,Interview Nice,Furniture,Chairs,730.06,394.25
+PROD-036,Hold Fly,Toys,Dolls,26.77,18.24
+PROD-037,Subject President,Home Goods,Kitchenware,333.56,139.23
+PROD-038,Charge Account,Clothing,Pants,424.93,181.16
+PROD-039,Ability High,Furniture,Tables,569.04,289.64
+PROD-040,Old Major,Home Goods,Bedding,713.14,434.29
+PROD-041,Page Follow,Home Goods,Kitchenware,981.76,650.89
+PROD-042,Future In,Home Goods,Bedding,318.01,212.07
+PROD-043,Even Practice,Furniture,Chairs,800.26,446.87
+PROD-044,Reveal Easy,Clothing,Shirts,395.95,245.93
+PROD-045,You Determine,Toys,Puzzles,842.81,398.39
+PROD-046,Game Of,Books,Comics,911.65,507.55
+PROD-047,Win Chair,Books,Non-fiction,538.01,330.63
+PROD-048,Store Bar,Clothing,Shoes,149.1,78.21
+PROD-049,Whole Successful,Toys,Board Games,786.99,482.63
+PROD-050,Measure Surface,Clothing,Jackets,86.89,58.28
+PROD-051,Air Radio,Home Goods,Lighting,946.25,382.4
+PROD-052,Rock Office,Toys,Board Games,516.91,275.79
+PROD-053,Drop Subject,Electronics,Smartphones,21.88,9.14
+PROD-054,Feeling Fight,Electronics,Smartphones,212.8,113.03
+PROD-055,Contain Simply,Books,Comics,45.11,28.46
+PROD-056,Performance Argue,Home Goods,Decor,854.68,582.31
+PROD-057,Friend Hour,Toys,Puzzles,934.24,410.39
+PROD-058,Must Employee,Toys,Board Games,747.49,477.08
+PROD-059,Without Within,Toys,Dolls,198.46,108.32
+PROD-060,Million Or,Home Goods,Decor,872.05,409.01
+PROD-061,What However,Books,Fiction,393.42,266.5
+PROD-062,Daughter Receive,Electronics,Smartphones,329.75,136.67
+PROD-063,Single Upon,Electronics,Laptops,546.86,282.65
+PROD-064,Note People,Toys,Dolls,486.07,197.6
+PROD-065,Person Machine,Toys,Action Figures,96.6,53.7
+PROD-066,Building Why,Toys,Board Games,762.34,524.81
+PROD-067,Space They,Clothing,Shoes,666.0,441.97
+PROD-068,There Help,Home Goods,Lighting,595.76,403.17
+PROD-069,Kid Break,Clothing,Pants,46.73,20.23
+PROD-070,Nothing Since,Electronics,Tablets,164.94,102.51
+PROD-071,Often Capital,Furniture,Beds,33.79,21.46
+PROD-072,Age Sort,Electronics,Smartphones,425.27,247.71
+PROD-073,Although Laugh,Home Goods,Lighting,379.12,190.55
+PROD-074,Place Science,Toys,Action Figures,834.18,369.27
+PROD-075,We Would,Clothing,Shoes,565.28,386.02
+PROD-076,Building Test,Toys,Board Games,116.96,73.24
+PROD-077,Success Candidate,Furniture,Beds,977.72,418.88
+PROD-078,Already Control,Electronics,Smartphones,175.43,101.15
+PROD-079,Painting Create,Furniture,Beds,728.7,293.47
+PROD-080,Question Behind,Home Goods,Decor,455.24,271.75
+PROD-081,Trip Though,Electronics,Smartphones,302.68,175.9
+PROD-082,Admit Crime,Furniture,Tables,222.24,151.39
+PROD-083,Campaign Final,Books,Children's,340.74,194.63
+PROD-084,Western Close,Home Goods,Lighting,997.16,568.69
+PROD-085,Purpose Whose,Clothing,Shirts,251.34,140.61
+PROD-086,Director Minute,Home Goods,Decor,326.41,186.73
+PROD-087,Rise Answer,Electronics,Smartphones,945.1,508.69
+PROD-088,Project Daughter,Books,Fiction,255.09,126.26
+PROD-089,Go Why,Books,Comics,332.24,180.95
+PROD-090,Including Cost,Home Goods,Decor,970.45,423.76
+PROD-091,Wear Rise,Furniture,Beds,286.76,198.2
+PROD-092,Give Bank,Toys,Board Games,624.22,394.05
+PROD-093,Generation Ever,Furniture,Tables,580.79,243.85
+PROD-094,Increase Have,Books,Comics,424.19,207.99
+PROD-095,Writer Policy,Furniture,Sofas,963.47,438.26
+PROD-096,Talk Read,Books,Comics,673.82,286.25
+PROD-097,Identify Feel,Home Goods,Lighting,967.64,649.33
+PROD-098,Past Become,Clothing,Jackets,334.65,187.1
+PROD-099,Drop Television,Furniture,Chairs,461.41,193.44
+PROD-100,Statement Mission,Books,Comics,279.43,162.56
+PROD-101,Source Clear,Electronics,Headphones,781.3,472.98
+PROD-102,Determine Forget,Toys,Action Figures,769.81,392.0
+PROD-103,Gas Top,Electronics,Tablets,716.94,288.48
+PROD-104,At Full,Books,Fiction,103.26,63.48
+PROD-105,Full West,Electronics,Smartphones,217.71,126.98
+PROD-106,Card Rise,Books,Non-fiction,30.22,15.9
+PROD-107,Have Management,Clothing,Pants,596.36,373.1
+PROD-108,Organization Ok,Electronics,Smartphones,306.66,125.07
+PROD-109,Official Relate,Furniture,Tables,96.61,39.56
+PROD-110,Race Condition,Home Goods,Decor,882.05,413.53
+PROD-111,Single Class,Home Goods,Decor,501.28,235.29
+PROD-112,Whole Local,Clothing,Jackets,659.82,337.74
+PROD-113,Produce Always,Clothing,Pants,597.41,277.07
+PROD-114,Fight Stuff,Books,Comics,821.75,365.93
+PROD-115,New Whatever,Furniture,Chairs,934.73,518.84
+PROD-116,Ask Let,Books,Children's,79.46,45.4
+PROD-117,The Experience,Furniture,Beds,741.62,381.55
+PROD-118,Husband Peace,Electronics,Smartphones,419.4,169.48
+PROD-119,Once Attack,Toys,Puzzles,712.32,497.36
+PROD-120,President Writer,Books,Children's,734.6,371.7
+PROD-121,Environmental Goal,Home Goods,Kitchenware,24.92,10.46
+PROD-122,Area Court,Electronics,Tablets,121.89,54.49
+PROD-123,Enough Give,Furniture,Tables,971.65,507.98
+PROD-124,Son Military,Books,Non-fiction,886.16,596.81
+PROD-125,Month Building,Toys,Action Figures,407.05,177.92
+PROD-126,Doctor Need,Toys,Action Figures,161.1,89.57
+PROD-127,Strong Simply,Electronics,Smartphones,642.1,328.12
+PROD-128,Window Nature,Home Goods,Kitchenware,962.14,653.89
+PROD-129,By Whose,Toys,Puzzles,295.52,161.69
+PROD-130,Moment Exactly,Electronics,Headphones,288.61,127.82
+PROD-131,Report Minute,Home Goods,Lighting,586.03,308.56
+PROD-132,Later Once,Toys,Action Figures,44.57,19.6
+PROD-133,Produce Poor,Clothing,Pants,871.84,451.64
+PROD-134,Require Easy,Toys,Action Figures,851.55,557.61
+PROD-135,Stop Himself,Books,Comics,629.08,303.68
+PROD-136,Help Mr,Electronics,Laptops,724.17,472.98
+PROD-137,Apply Computer,Electronics,Laptops,975.92,392.99
+PROD-138,Through If,Clothing,Shoes,429.49,268.36
+PROD-139,History Voice,Furniture,Sofas,681.1,284.68
+PROD-140,Discussion First,Home Goods,Decor,323.16,175.45
+PROD-141,Million Part,Toys,Board Games,799.57,359.87
+PROD-142,Subject Leader,Furniture,Tables,255.56,152.23
+PROD-143,Board Set,Books,Fiction,929.96,405.62
+PROD-144,Most Special,Home Goods,Lighting,646.1,379.66
+PROD-145,Teacher International,Furniture,Beds,27.29,17.26
+PROD-146,Finish Huge,Furniture,Tables,825.27,360.44
+PROD-147,Message Cold,Toys,Board Games,224.84,135.79
+PROD-148,See Mind,Toys,Dolls,521.03,349.96
+PROD-149,Call Believe,Electronics,Laptops,89.76,36.46
+PROD-150,Door Clear,Clothing,Jackets,868.48,399.92
+PROD-151,And Real,Furniture,Chairs,442.28,249.88
+PROD-152,Conference Church,Home Goods,Lighting,246.93,132.32
+PROD-153,Apply Bring,Clothing,Shirts,58.93,39.1
+PROD-154,Production Interesting,Electronics,Smartphones,942.08,628.74
+PROD-155,Position Draw,Furniture,Beds,598.2,325.04
+PROD-156,Interesting Strategy,Home Goods,Decor,53.32,35.29
+PROD-157,Vote Themselves,Home Goods,Decor,695.76,330.23
+PROD-158,Ever Heart,Home Goods,Lighting,351.09,201.34
+PROD-159,Quickly Arrive,Electronics,Smartphones,175.29,115.93
+PROD-160,Out Political,Books,Comics,694.67,293.08
+PROD-161,Back Young,Electronics,Headphones,498.44,326.56
+PROD-162,Reduce Hundred,Books,Fiction,651.47,400.15
+PROD-163,Old Outside,Home Goods,Kitchenware,321.36,167.38
+PROD-164,After Policy,Books,Children's,974.84,440.4
+PROD-165,History Opportunity,Home Goods,Bedding,916.24,462.84
+PROD-166,National Police,Furniture,Beds,525.31,358.38
+PROD-167,Sure Loss,Toys,Board Games,337.57,202.67
+PROD-168,Choose Crime,Electronics,Headphones,409.18,268.89
+PROD-169,Summer Choose,Clothing,Shirts,179.97,94.62
+PROD-170,Hit Behavior,Books,Fiction,361.16,224.66
+PROD-171,Record Amount,Electronics,Headphones,859.52,564.65
+PROD-172,Thousand Scene,Books,Fiction,511.76,271.07
+PROD-173,Hold Color,Electronics,Tablets,58.15,32.03
+PROD-174,Month Whether,Home Goods,Decor,280.23,159.3
+PROD-175,Share Woman,Furniture,Beds,658.1,428.85
+PROD-176,North Religious,Furniture,Beds,836.95,452.81
+PROD-177,Finish Deep,Home Goods,Decor,64.38,41.25
+PROD-178,Big Art,Books,Children's,660.59,448.99
+PROD-179,House Manage,Electronics,Smartphones,883.02,597.51
+PROD-180,Way Vote,Books,Children's,775.53,345.64
+PROD-181,Stay Huge,Books,Children's,238.88,113.57
+PROD-182,Ten Expect,Clothing,Jackets,303.09,134.84
+PROD-183,Cold Speech,Electronics,Laptops,681.01,319.32
+PROD-184,Just Lay,Clothing,Shoes,303.19,167.61
+PROD-185,Speech Bit,Books,Fiction,206.62,87.75
+PROD-186,Every Who,Home Goods,Bedding,231.55,145.03
+PROD-187,Left Professional,Toys,Action Figures,202.19,90.17
+PROD-188,More Have,Electronics,Smartphones,920.59,589.29
+PROD-189,Here Radio,Clothing,Pants,154.92,91.09
+PROD-190,Give Tough,Electronics,Tablets,933.89,439.91
+PROD-191,Despite Campaign,Home Goods,Bedding,375.24,185.5
+PROD-192,Into Strategy,Toys,Puzzles,713.84,376.96
+PROD-193,Without Skin,Books,Fiction,508.64,216.36
+PROD-194,Same Plant,Furniture,Beds,652.0,381.57
+PROD-195,Buy Pressure,Home Goods,Kitchenware,741.02,316.14
+PROD-196,Argue Should,Electronics,Tablets,98.87,50.41
+PROD-197,Base Eight,Electronics,Smartphones,943.36,544.47
+PROD-198,Agree Attention,Electronics,Headphones,922.3,397.94
+PROD-199,Occur Quite,Clothing,Shirts,734.94,392.37
+PROD-200,We Sense,Clothing,Shirts,384.2,179.94
+PROD-201,Moment Cover,Home Goods,Kitchenware,501.84,308.12
+PROD-202,Bring Citizen,Clothing,Shoes,337.57,227.43
+PROD-203,Yet Floor,Home Goods,Kitchenware,183.83,76.49
+PROD-204,Heavy Run,Books,Non-fiction,798.1,451.67
+PROD-205,Already Hit,Electronics,Headphones,717.13,314.07
+PROD-206,Important Middle,Toys,Dolls,157.96,99.18
+PROD-207,It Care,Clothing,Pants,444.29,272.54
+PROD-208,Record Production,Books,Children's,751.16,388.36
+PROD-209,Last Present,Clothing,Shirts,767.47,528.06
+PROD-210,Speech Performance,Clothing,Shoes,697.75,447.52
+PROD-211,Two Whom,Electronics,Tablets,925.96,477.18
+PROD-212,Continue Drive,Furniture,Tables,260.51,126.82
+PROD-213,Trouble Response,Electronics,Smartphones,407.03,181.59
+PROD-214,Race More,Clothing,Jackets,329.47,223.43
+PROD-215,Talk Institution,Books,Comics,96.72,44.43
+PROD-216,Central Race,Clothing,Jackets,633.3,383.66
+PROD-217,Cup Her,Electronics,Headphones,593.23,358.09
+PROD-218,Although Until,Home Goods,Kitchenware,931.05,520.13
+PROD-219,Effect High,Furniture,Beds,271.8,151.12
+PROD-220,Treat Get,Toys,Puzzles,750.57,416.25
+PROD-221,Wife Wish,Home Goods,Bedding,972.96,439.28
+PROD-222,Speech Away,Electronics,Laptops,671.68,344.66
+PROD-223,Everyone Early,Toys,Dolls,240.05,125.23
+PROD-224,Election Plant,Books,Children's,987.12,685.7
+PROD-225,Improve From,Furniture,Beds,946.89,402.86
+PROD-226,You Writer,Toys,Dolls,595.46,241.74
+PROD-227,Heart Collection,Clothing,Pants,686.86,390.56
+PROD-228,Attention Attorney,Clothing,Jackets,89.97,41.11
+PROD-229,Always Remember,Home Goods,Lighting,301.47,195.65
+PROD-230,Partner Fall,Electronics,Laptops,632.9,367.58
+PROD-231,Actually Certainly,Home Goods,Kitchenware,224.04,104.63
+PROD-232,Because Pressure,Toys,Puzzles,894.76,620.94
+PROD-233,Effort Both,Electronics,Smartphones,959.94,391.85
+PROD-234,Thousand Though,Toys,Board Games,743.41,315.97
+PROD-235,Democrat Thousand,Furniture,Sofas,638.78,356.92
+PROD-236,Reduce Paper,Toys,Action Figures,665.91,312.4
+PROD-237,Least Stock,Toys,Action Figures,509.44,208.14
+PROD-238,It Way,Electronics,Smartphones,44.95,18.13
+PROD-239,Expect Approach,Electronics,Smartphones,79.58,39.73
+PROD-240,Something Also,Home Goods,Kitchenware,182.73,77.24
+PROD-241,Action From,Clothing,Jackets,900.1,591.07
+PROD-242,Concern Professor,Furniture,Beds,540.48,325.08
+PROD-243,Spend Cut,Home Goods,Lighting,798.33,456.93
+PROD-244,What Hear,Home Goods,Lighting,402.26,231.97
+PROD-245,Way Guy,Clothing,Shirts,37.15,25.12
+PROD-246,Guy Moment,Electronics,Tablets,254.75,137.89
+PROD-247,Read Senior,Clothing,Pants,994.61,659.25
+PROD-248,With Above,Electronics,Tablets,445.81,244.26
+PROD-249,Item Senior,Furniture,Beds,697.29,385.25
+PROD-250,Sound You,Electronics,Laptops,851.06,391.81
+PROD-251,Home Certain,Books,Non-fiction,447.47,180.55
+PROD-252,Wall Too,Home Goods,Lighting,154.71,105.48
+PROD-253,Effect Film,Books,Fiction,580.91,266.31
+PROD-254,Call Professor,Books,Children's,48.51,20.96
+PROD-255,Ago Write,Clothing,Pants,553.78,356.02
+PROD-256,Huge Check,Electronics,Laptops,129.39,66.77
+PROD-257,Strong Off,Furniture,Beds,937.08,536.95
+PROD-258,Free Two,Home Goods,Kitchenware,622.9,337.02
+PROD-259,Again Most,Furniture,Sofas,765.19,417.56
+PROD-260,Represent Doctor,Electronics,Headphones,515.22,276.3
+PROD-261,Pm Whatever,Books,Comics,658.46,386.5
+PROD-262,Interview Everyone,Clothing,Pants,103.8,67.75
+PROD-263,Whole After,Home Goods,Lighting,658.0,306.86
+PROD-264,Task Purpose,Books,Comics,43.3,27.56
+PROD-265,Accept Central,Furniture,Sofas,202.32,139.91
+PROD-266,Specific Player,Toys,Puzzles,573.41,393.25
+PROD-267,Management Spring,Books,Non-fiction,668.95,303.47
+PROD-268,Purpose Common,Home Goods,Kitchenware,408.73,196.2
+PROD-269,Theory Cut,Electronics,Laptops,896.63,366.42
+PROD-270,Health During,Toys,Dolls,130.1,59.89
+PROD-271,More Ago,Home Goods,Lighting,460.56,321.19
+PROD-272,Too Safe,Toys,Dolls,959.31,484.55
+PROD-273,Owner Catch,Toys,Action Figures,804.04,365.46
+PROD-274,Situation Finally,Books,Comics,503.95,270.76
+PROD-275,Across Show,Clothing,Shoes,597.67,253.84
+PROD-276,Official Threat,Clothing,Pants,651.09,329.12
+PROD-277,Huge Can,Home Goods,Kitchenware,792.53,465.36
+PROD-278,Hold Before,Furniture,Tables,481.12,200.36
+PROD-279,Education Last,Electronics,Laptops,394.11,224.33
+PROD-280,Fine Common,Toys,Action Figures,361.18,209.84
+PROD-281,Every Seven,Toys,Action Figures,244.26,152.65
+PROD-282,Part Range,Furniture,Sofas,930.98,428.49
+PROD-283,Exist Management,Home Goods,Kitchenware,95.55,45.76
+PROD-284,Night Probably,Furniture,Chairs,615.16,418.08
+PROD-285,Best Give,Clothing,Pants,269.74,185.06
+PROD-286,Stock Enter,Toys,Puzzles,128.62,55.19
+PROD-287,Degree Available,Furniture,Beds,396.74,193.57
+PROD-288,Science Recently,Toys,Dolls,590.36,339.21
+PROD-289,Lawyer Tax,Books,Comics,838.89,477.36
+PROD-290,Young Dog,Furniture,Sofas,383.73,184.43
+PROD-291,Agency Ask,Electronics,Smartphones,40.9,17.59
+PROD-292,Name Down,Toys,Dolls,307.46,188.16
+PROD-293,Response Family,Toys,Puzzles,187.71,104.71
+PROD-294,You Information,Electronics,Headphones,405.12,192.26
+PROD-295,Head White,Home Goods,Decor,501.34,277.12
+PROD-296,Senior White,Clothing,Shoes,515.24,267.54
+PROD-297,Church Use,Clothing,Shoes,106.51,70.11
+PROD-298,Budget Economy,Toys,Puzzles,301.56,163.64
+PROD-299,Interest Until,Books,Children's,44.4,25.89
+PROD-300,Often Son,Electronics,Tablets,614.93,311.92
+PROD-301,Page Defense,Clothing,Pants,130.49,59.29
+PROD-302,Matter Physical,Clothing,Shirts,488.73,297.13
+PROD-303,Course Professional,Toys,Action Figures,583.28,354.92
+PROD-304,When Quality,Toys,Dolls,171.1,80.05
+PROD-305,Beautiful Various,Furniture,Tables,567.02,367.22
+PROD-306,Go Case,Clothing,Jackets,91.77,55.24
+PROD-307,Society Really,Furniture,Tables,118.38,52.44
+PROD-308,Institution Clear,Electronics,Tablets,339.22,219.84
+PROD-309,Send Share,Books,Comics,252.35,101.45
+PROD-310,Heavy Minute,Electronics,Tablets,251.69,120.7
+PROD-311,Important Better,Furniture,Sofas,862.56,443.63
+PROD-312,College Main,Clothing,Shirts,511.88,325.29
+PROD-313,Strong Trial,Furniture,Tables,443.34,235.71
+PROD-314,Listen Check,Furniture,Beds,215.15,147.89
+PROD-315,Hear Little,Toys,Action Figures,316.51,173.73
+PROD-316,Picture Society,Home Goods,Kitchenware,250.51,117.76
+PROD-317,On Billion,Toys,Board Games,447.51,294.87
+PROD-318,Day Leg,Home Goods,Bedding,684.04,381.89
+PROD-319,New Development,Clothing,Shirts,837.99,578.49
+PROD-320,Event Outside,Toys,Dolls,918.43,600.43
+PROD-321,Actually Tax,Toys,Puzzles,610.7,322.21
+PROD-322,Relationship Wear,Electronics,Laptops,896.43,393.45
+PROD-323,Source Their,Home Goods,Bedding,63.13,41.86
+PROD-324,Yes Price,Home Goods,Lighting,793.45,547.08
+PROD-325,Check Film,Toys,Dolls,477.04,209.44
+PROD-326,Under Firm,Electronics,Smartphones,876.93,535.29
+PROD-327,Ago Produce,Books,Children's,23.93,12.03
+PROD-328,Large Spend,Books,Children's,802.3,551.4
+PROD-329,Draw Important,Clothing,Pants,406.06,187.79
+PROD-330,Fast East,Toys,Action Figures,158.56,70.59
+PROD-331,Not Record,Books,Fiction,87.26,44.56
+PROD-332,Hundred Wrong,Electronics,Laptops,138.26,65.2
+PROD-333,Condition Rich,Home Goods,Decor,952.04,420.64
+PROD-334,Guess Sense,Electronics,Smartphones,192.82,126.31
+PROD-335,Wear Property,Books,Fiction,114.58,54.01
+PROD-336,Less Everyone,Furniture,Beds,786.36,437.49
+PROD-337,High Important,Electronics,Tablets,371.54,152.72
+PROD-338,Wide Get,Electronics,Tablets,822.46,362.01
+PROD-339,Fact Account,Home Goods,Lighting,222.24,93.6
+PROD-340,Century Offer,Electronics,Laptops,290.91,121.04
+PROD-341,Program Care,Home Goods,Decor,140.79,95.23
+PROD-342,Nation Others,Books,Non-fiction,250.28,169.01
+PROD-343,Keep Democrat,Clothing,Pants,315.0,179.44
+PROD-344,Leave Team,Home Goods,Lighting,569.19,327.5
+PROD-345,Process Final,Furniture,Tables,131.96,55.21
+PROD-346,Push Morning,Home Goods,Decor,984.48,491.42
+PROD-347,Manage Computer,Books,Comics,485.71,260.64
+PROD-348,Sign While,Clothing,Pants,367.51,210.52
+PROD-349,Teach Experience,Clothing,Pants,389.86,172.95
+PROD-350,Answer Before,Books,Children's,692.16,382.14
+PROD-351,Wish Window,Clothing,Pants,714.23,342.24
+PROD-352,Rich Agency,Home Goods,Decor,703.37,333.48
+PROD-353,Work Provide,Clothing,Shirts,701.01,399.17
+PROD-354,Police West,Books,Fiction,478.04,262.95
+PROD-355,Something Well,Furniture,Sofas,674.68,450.36
+PROD-356,Sport East,Books,Comics,896.73,488.17
+PROD-357,True Water,Books,Comics,194.95,133.38
+PROD-358,Method Catch,Home Goods,Decor,736.95,394.55
+PROD-359,As Summer,Toys,Board Games,461.95,219.79
+PROD-360,Down Ball,Furniture,Beds,623.93,436.09
+PROD-361,Share President,Electronics,Laptops,687.3,477.52
+PROD-362,Campaign Such,Furniture,Sofas,297.65,192.63
+PROD-363,Spend Nature,Home Goods,Bedding,711.09,377.14
+PROD-364,Total Safe,Electronics,Tablets,716.17,449.26
+PROD-365,Always Himself,Toys,Dolls,314.77,203.82
+PROD-366,Sing Move,Toys,Puzzles,224.28,100.54
+PROD-367,Itself For,Toys,Puzzles,525.69,345.33
+PROD-368,Whether Indicate,Furniture,Tables,515.13,274.46
+PROD-369,Move Sea,Electronics,Tablets,109.4,71.89
+PROD-370,Where General,Electronics,Tablets,176.13,95.17
+PROD-371,But Include,Home Goods,Kitchenware,294.83,181.43
+PROD-372,Feel Mother,Furniture,Beds,98.37,42.51
+PROD-373,Morning Sing,Clothing,Jackets,662.69,351.56
+PROD-374,Seat Hand,Books,Fiction,852.52,416.51
+PROD-375,Example Of,Clothing,Jackets,273.46,133.85
+PROD-376,Challenge Energy,Clothing,Pants,603.73,268.27
+PROD-377,About Ten,Home Goods,Decor,67.66,37.93
+PROD-378,Run Lead,Clothing,Jackets,361.24,228.75
+PROD-379,Head Human,Clothing,Shirts,101.93,41.56
+PROD-380,Black Cause,Toys,Action Figures,974.12,673.52
+PROD-381,Social Water,Books,Fiction,84.32,53.73
+PROD-382,Them Weight,Furniture,Sofas,530.45,249.87
+PROD-383,Glass Ever,Furniture,Sofas,768.59,379.77
+PROD-384,Out Five,Electronics,Tablets,942.26,610.33
+PROD-385,Respond Paper,Home Goods,Lighting,909.34,532.94
+PROD-386,Speech Understand,Clothing,Shoes,608.49,407.89
+PROD-387,Song Pass,Home Goods,Kitchenware,690.05,438.23
+PROD-388,Partner Station,Toys,Action Figures,766.54,323.5
+PROD-389,Congress Thousand,Clothing,Shoes,302.68,171.63
+PROD-390,Subject Food,Books,Children's,130.06,79.77
+PROD-391,Threat Any,Home Goods,Bedding,931.69,613.7
+PROD-392,Same Every,Books,Comics,412.52,276.96
+PROD-393,Better Though,Clothing,Pants,925.94,493.0
+PROD-394,Image Serve,Electronics,Laptops,851.91,552.82
+PROD-395,Real Miss,Furniture,Tables,513.74,257.08
+PROD-396,Minute Election,Toys,Dolls,269.76,168.97
+PROD-397,Away Season,Furniture,Tables,366.97,252.48
+PROD-398,Admit Forget,Electronics,Smartphones,607.86,392.09
+PROD-399,Front Design,Home Goods,Bedding,794.82,511.17
+PROD-400,Economic Produce,Electronics,Laptops,696.15,411.46
+PROD-401,Present Consumer,Furniture,Chairs,300.45,159.48
+PROD-402,Republican Guess,Furniture,Sofas,811.02,399.07
+PROD-403,Receive Example,Furniture,Tables,95.21,45.08
+PROD-404,Wide Discuss,Electronics,Laptops,238.94,120.2
+PROD-405,Exactly Sort,Toys,Dolls,997.97,434.4
+PROD-406,North Win,Home Goods,Lighting,160.42,88.74
+PROD-407,Those Hot,Books,Comics,622.48,359.98
+PROD-408,Follow Industry,Books,Fiction,823.4,485.08
+PROD-409,Drop Mean,Electronics,Tablets,923.94,436.81
+PROD-410,Free Good,Furniture,Beds,42.75,23.82
+PROD-411,By Pull,Electronics,Laptops,760.58,511.71
+PROD-412,List Nature,Clothing,Shoes,264.93,169.83
+PROD-413,Least Assume,Toys,Board Games,580.41,364.8
+PROD-414,About Thank,Furniture,Sofas,463.77,275.86
+PROD-415,Class Suggest,Home Goods,Decor,460.38,286.13
+PROD-416,Toward Back,Electronics,Headphones,254.88,105.48
+PROD-417,Technology Child,Furniture,Chairs,528.44,212.21
+PROD-418,Just Get,Books,Children's,394.0,159.93
+PROD-419,Recognize Watch,Clothing,Shirts,629.29,360.06
+PROD-420,Price List,Toys,Action Figures,115.2,55.29
+PROD-421,Order Low,Home Goods,Bedding,617.66,296.97
+PROD-422,Car Huge,Furniture,Chairs,948.4,479.78
+PROD-423,Job Around,Furniture,Chairs,514.67,353.4
+PROD-424,Specific Yes,Home Goods,Decor,156.08,104.36
+PROD-425,Far Business,Electronics,Headphones,617.76,363.48
+PROD-426,State North,Electronics,Tablets,493.41,267.62
+PROD-427,Brother Out,Electronics,Headphones,402.36,177.93
+PROD-428,Five Learn,Electronics,Smartphones,341.96,226.9
+PROD-429,Employee Food,Books,Children's,686.61,463.97
+PROD-430,Best Work,Electronics,Smartphones,407.36,226.83
+PROD-431,Civil Want,Electronics,Smartphones,121.22,73.55
+PROD-432,Answer Environment,Electronics,Tablets,342.34,169.92
+PROD-433,Month Boy,Furniture,Beds,654.14,379.65
+PROD-434,Without Body,Books,Non-fiction,116.19,47.74
+PROD-435,Feeling There,Furniture,Tables,472.3,254.59
+PROD-436,Price Rather,Toys,Board Games,241.97,164.56
+PROD-437,Country Remain,Home Goods,Bedding,160.87,110.74
+PROD-438,Significant Want,Home Goods,Bedding,830.33,475.57
+PROD-439,Ground Shake,Home Goods,Bedding,83.92,52.75
+PROD-440,Between Person,Furniture,Beds,169.68,104.71
+PROD-441,Manager End,Clothing,Jackets,297.83,149.89
+PROD-442,Response Instead,Clothing,Shirts,517.87,231.73
+PROD-443,Push Hot,Furniture,Chairs,765.66,529.63
+PROD-444,Action Change,Furniture,Sofas,825.2,500.99
+PROD-445,Assume Information,Clothing,Pants,640.69,417.17
+PROD-446,Face Body,Electronics,Laptops,829.57,365.52
+PROD-447,Scene Tell,Furniture,Sofas,590.99,336.32
+PROD-448,Partner Service,Toys,Puzzles,213.91,109.63
+PROD-449,Other Fast,Clothing,Jackets,515.93,264.5
+PROD-450,These Current,Books,Non-fiction,163.0,77.92
+PROD-451,Treatment Imagine,Clothing,Pants,554.0,347.05
+PROD-452,Machine Phone,Clothing,Shoes,675.27,462.9
+PROD-453,Eat Last,Electronics,Tablets,633.04,399.67
+PROD-454,All Manager,Books,Fiction,887.14,565.98
+PROD-455,Provide Suddenly,Home Goods,Decor,787.69,531.39
+PROD-456,Follow Focus,Home Goods,Kitchenware,779.18,464.2
+PROD-457,Sometimes Our,Books,Fiction,250.5,150.22
+PROD-458,Young Edge,Toys,Puzzles,886.49,548.84
+PROD-459,Focus Off,Electronics,Smartphones,521.86,243.81
+PROD-460,Result Standard,Toys,Board Games,963.36,521.72
+PROD-461,Fall There,Electronics,Headphones,916.57,400.03
+PROD-462,Talk Free,Toys,Dolls,32.77,13.27
+PROD-463,Season Put,Clothing,Jackets,68.72,31.65
+PROD-464,Writer Unit,Home Goods,Lighting,282.1,185.63
+PROD-465,Let Soldier,Home Goods,Lighting,591.83,379.19
+PROD-466,Act Evening,Books,Fiction,559.22,228.71
+PROD-467,Third War,Toys,Dolls,458.25,299.3
+PROD-468,Pm I,Home Goods,Lighting,705.62,471.66
+PROD-469,Hand Management,Clothing,Shoes,819.01,503.03
+PROD-470,Measure Which,Books,Comics,817.81,467.72
+PROD-471,Perhaps Keep,Electronics,Laptops,649.43,355.89
+PROD-472,Order Player,Home Goods,Lighting,511.0,237.15
+PROD-473,Street Itself,Electronics,Laptops,168.0,97.54
+PROD-474,So Item,Home Goods,Decor,221.1,121.23
+PROD-475,Of Particular,Home Goods,Bedding,734.57,386.22
+PROD-476,Work Bad,Toys,Board Games,524.32,310.08
+PROD-477,Compare Inside,Home Goods,Kitchenware,165.08,67.23
+PROD-478,Bring Glass,Books,Non-fiction,133.2,72.95
+PROD-479,Around Live,Toys,Puzzles,123.05,68.5
+PROD-480,Might Model,Electronics,Smartphones,58.72,39.37
+PROD-481,Stage Cost,Toys,Board Games,233.89,98.96
+PROD-482,Dream Ready,Toys,Puzzles,40.49,16.95
+PROD-483,Behavior Anyone,Home Goods,Decor,337.7,147.23
+PROD-484,Ten Yourself,Clothing,Pants,737.49,344.63
+PROD-485,Consider Thought,Furniture,Sofas,672.07,284.68
+PROD-486,Meeting Subject,Home Goods,Kitchenware,322.54,156.74
+PROD-487,Value Recently,Books,Comics,303.83,181.1
+PROD-488,Take Hotel,Home Goods,Decor,460.38,300.04
+PROD-489,Analysis Find,Clothing,Pants,325.2,169.9
+PROD-490,Reveal Available,Furniture,Sofas,487.07,233.74
+PROD-491,Policy Great,Books,Non-fiction,48.68,19.91
+PROD-492,Eye Maybe,Toys,Action Figures,818.04,558.43
+PROD-493,Month Experience,Electronics,Laptops,70.99,39.21
+PROD-494,Able This,Furniture,Sofas,548.8,303.97
+PROD-495,Realize Fight,Home Goods,Bedding,733.8,513.23
+PROD-496,Month Reality,Clothing,Pants,961.41,442.01
+PROD-497,Hour Event,Toys,Puzzles,698.92,319.1
+PROD-498,As Model,Home Goods,Lighting,890.85,554.28
+PROD-499,Occur Military,Electronics,Smartphones,675.95,390.43
+PROD-500,Perform Audience,Clothing,Shoes,662.52,385.25
+PROD-501,Level Four,Electronics,Laptops,229.12,157.22
+PROD-502,Financial Onto,Furniture,Chairs,318.95,137.69
+PROD-503,Return Design,Toys,Board Games,593.33,342.1
+PROD-504,Adult Begin,Toys,Dolls,854.35,396.21
+PROD-505,Sit Police,Clothing,Jackets,406.74,228.78
+PROD-506,Son Everyone,Electronics,Smartphones,346.32,160.59
+PROD-507,Threat Feeling,Toys,Puzzles,461.11,306.46
+PROD-508,Girl Stage,Books,Comics,374.76,255.05
+PROD-509,Section So,Toys,Puzzles,664.38,356.15
+PROD-510,Side Fast,Home Goods,Kitchenware,364.1,237.39
+PROD-511,Study Worry,Furniture,Chairs,489.7,299.68
+PROD-512,Measure Affect,Books,Comics,775.26,336.83
+PROD-513,Into Stand,Books,Comics,737.62,306.36
+PROD-514,Spring Your,Home Goods,Lighting,760.02,448.5
+PROD-515,Carry Seek,Electronics,Smartphones,56.78,32.32
+PROD-516,Foreign Research,Home Goods,Kitchenware,394.67,180.18
+PROD-517,Whom Focus,Electronics,Laptops,817.22,412.61
+PROD-518,Become Relationship,Clothing,Shirts,265.15,181.04
+PROD-519,Speech Word,Electronics,Tablets,316.19,157.63
+PROD-520,Full Enjoy,Books,Non-fiction,633.31,351.93
+PROD-521,Side Along,Clothing,Shoes,953.14,665.9
+PROD-522,State Piece,Toys,Action Figures,311.62,176.47
+PROD-523,Maybe Look,Electronics,Tablets,581.82,377.04
+PROD-524,Area Through,Electronics,Smartphones,552.07,232.75
+PROD-525,Player Management,Clothing,Shoes,483.57,235.06
+PROD-526,Thank Popular,Home Goods,Decor,995.97,598.87
+PROD-527,Movie Process,Toys,Action Figures,345.6,166.8
+PROD-528,Oil About,Furniture,Tables,489.55,280.27
+PROD-529,Choice Party,Clothing,Shoes,309.57,186.34
+PROD-530,Resource Yourself,Electronics,Laptops,192.7,134.03
+PROD-531,Financial Idea,Electronics,Tablets,595.71,415.81
+PROD-532,Deal Try,Home Goods,Kitchenware,200.46,103.84
+PROD-533,First Already,Toys,Action Figures,883.75,576.89
+PROD-534,Effect Live,Books,Non-fiction,339.89,236.46
+PROD-535,Thus Red,Books,Children's,126.9,87.19
+PROD-536,Plant Power,Home Goods,Kitchenware,659.17,382.55
+PROD-537,Full There,Electronics,Headphones,527.52,258.96
+PROD-538,And Important,Clothing,Shirts,768.99,311.37
+PROD-539,Tend Visit,Furniture,Tables,232.34,129.45
+PROD-540,Hot Against,Home Goods,Lighting,698.55,329.56
+PROD-541,Senior Program,Furniture,Chairs,986.26,453.51
+PROD-542,Happen Policy,Electronics,Laptops,114.73,76.73
+PROD-543,Interest Enough,Clothing,Shoes,19.87,8.53
+PROD-544,Community Name,Home Goods,Lighting,464.1,267.45
+PROD-545,Guy Assume,Toys,Dolls,533.23,322.64
+PROD-546,Usually Rock,Clothing,Shirts,737.72,347.36
+PROD-547,Total As,Home Goods,Kitchenware,367.8,193.73
+PROD-548,Sea Discussion,Books,Comics,100.59,59.05
+PROD-549,Talk Those,Clothing,Shirts,884.0,502.45
+PROD-550,Which Talk,Books,Children's,826.45,463.14
+PROD-551,Score Until,Clothing,Shirts,314.75,188.3
+PROD-552,Experience Study,Clothing,Shirts,58.11,23.43
+PROD-553,Especially Artist,Furniture,Chairs,303.07,200.7
+PROD-554,Decide Method,Books,Non-fiction,834.36,381.77
+PROD-555,Her Defense,Books,Children's,686.01,341.77
+PROD-556,Security Chair,Clothing,Jackets,713.01,497.61
+PROD-557,Garden Phone,Clothing,Pants,335.17,140.55
+PROD-558,Think Listen,Furniture,Sofas,736.98,355.47
+PROD-559,Message Seven,Furniture,Chairs,374.71,163.89
+PROD-560,Maintain Allow,Home Goods,Bedding,959.34,616.01
+PROD-561,Once Chance,Clothing,Shoes,342.8,222.83
+PROD-562,Information Agency,Books,Comics,312.25,142.4
+PROD-563,Field Approach,Clothing,Shirts,562.5,286.76
+PROD-564,Stock Other,Furniture,Chairs,98.67,66.92
+PROD-565,Drug Onto,Home Goods,Bedding,497.04,285.0
+PROD-566,Among Job,Books,Children's,664.33,409.5
+PROD-567,The That,Toys,Action Figures,391.53,194.85
+PROD-568,Radio Degree,Toys,Board Games,908.39,563.79
+PROD-569,Large Reach,Toys,Action Figures,683.14,392.55
+PROD-570,Water Glass,Clothing,Shoes,537.51,237.77
+PROD-571,Road Wind,Clothing,Shirts,16.95,9.39
+PROD-572,Chair Senior,Furniture,Beds,445.87,269.32
+PROD-573,Seven Base,Books,Children's,12.94,6.2
+PROD-574,Window Never,Home Goods,Lighting,314.28,213.68
+PROD-575,Water Stage,Electronics,Smartphones,531.41,327.91
+PROD-576,Mrs Performance,Furniture,Beds,787.62,338.33
+PROD-577,Minute Network,Furniture,Sofas,81.11,53.66
+PROD-578,City Provide,Home Goods,Lighting,203.53,112.99
+PROD-579,Mention Else,Furniture,Sofas,717.28,378.41
+PROD-580,By Station,Books,Non-fiction,127.28,58.72
+PROD-581,Expert Off,Furniture,Tables,299.62,209.45
+PROD-582,Yourself Evidence,Toys,Puzzles,541.88,246.42
+PROD-583,Teacher Culture,Furniture,Beds,20.03,11.57
+PROD-584,Myself Mission,Furniture,Sofas,900.68,581.47
+PROD-585,Visit Responsibility,Books,Non-fiction,453.77,311.71
+PROD-586,Establish Indeed,Electronics,Tablets,95.49,62.01
+PROD-587,Into Century,Home Goods,Lighting,549.93,244.57
+PROD-588,Government Reveal,Furniture,Chairs,784.05,528.23
+PROD-589,Current Theory,Clothing,Shoes,40.68,20.76
+PROD-590,Reason Recognize,Furniture,Chairs,584.7,267.52
+PROD-591,Fund Prove,Electronics,Headphones,698.33,304.24
+PROD-592,Impact Mind,Clothing,Pants,382.94,168.59
+PROD-593,Mean Recently,Books,Non-fiction,709.69,355.28
+PROD-594,Protect Indicate,Electronics,Tablets,456.96,257.69
+PROD-595,Then Experience,Electronics,Tablets,669.42,382.22
+PROD-596,Main Challenge,Toys,Board Games,114.47,65.35
+PROD-597,Future Now,Home Goods,Decor,472.88,302.67
+PROD-598,Over Piece,Toys,Puzzles,412.84,229.12
+PROD-599,Think Significant,Clothing,Pants,398.91,201.3
+PROD-600,Lot Beat,Books,Children's,264.97,146.99
+PROD-601,Card Opportunity,Electronics,Tablets,680.33,320.96
+PROD-602,Coach Wear,Toys,Board Games,398.24,267.91
+PROD-603,Own Between,Electronics,Smartphones,768.67,307.92
+PROD-604,Safe Note,Toys,Puzzles,96.89,55.92
+PROD-605,Table Rate,Furniture,Chairs,252.03,169.88
+PROD-606,Discover Nor,Home Goods,Lighting,791.49,486.69
+PROD-607,According Voice,Clothing,Shirts,725.5,495.35
+PROD-608,Trouble Moment,Furniture,Chairs,387.93,269.87
+PROD-609,Father Degree,Clothing,Shoes,73.73,34.94
+PROD-610,Fact Trip,Electronics,Tablets,363.62,192.8
+PROD-611,Kind Field,Home Goods,Decor,517.21,272.4
+PROD-612,Responsibility Sing,Books,Children's,14.1,7.95
+PROD-613,Oil Own,Home Goods,Bedding,183.67,120.4
+PROD-614,Join Over,Electronics,Smartphones,812.85,433.23
+PROD-615,Conference Successful,Home Goods,Kitchenware,666.88,461.31
+PROD-616,Individual Church,Books,Children's,734.55,391.61
+PROD-617,Travel Major,Clothing,Jackets,766.72,425.65
+PROD-618,Field Can,Toys,Dolls,607.49,411.1
+PROD-619,Magazine Art,Toys,Board Games,556.55,305.94
+PROD-620,Outside Magazine,Clothing,Shirts,231.52,97.07
+PROD-621,Understand Stop,Electronics,Tablets,197.67,115.02
+PROD-622,Democratic Build,Furniture,Sofas,322.22,220.04
+PROD-623,Mother Ten,Books,Children's,902.95,459.05
+PROD-624,Religious Film,Toys,Puzzles,994.93,467.63
+PROD-625,Subject During,Toys,Puzzles,165.07,99.35
+PROD-626,Model Majority,Furniture,Chairs,227.48,129.4
+PROD-627,Study Necessary,Furniture,Tables,421.61,255.15
+PROD-628,Source Democrat,Home Goods,Decor,610.78,421.69
+PROD-629,Their Crime,Clothing,Jackets,687.87,420.19
+PROD-630,These Contain,Electronics,Tablets,478.49,201.46
+PROD-631,Company Sure,Furniture,Tables,300.8,198.47
+PROD-632,Every Difference,Clothing,Pants,266.46,165.85
+PROD-633,These Democratic,Electronics,Headphones,875.57,610.86
+PROD-634,Recent Religious,Clothing,Pants,156.54,94.14
+PROD-635,Especially Series,Books,Comics,406.2,237.08
+PROD-636,Sister Glass,Electronics,Tablets,399.25,160.0
+PROD-637,Likely Nearly,Toys,Action Figures,189.93,120.44
+PROD-638,Maybe Her,Electronics,Headphones,537.12,325.73
+PROD-639,Left Somebody,Toys,Puzzles,148.45,81.04
+PROD-640,Push Assume,Home Goods,Lighting,34.23,17.93
+PROD-641,Agree Culture,Toys,Puzzles,811.09,428.96
+PROD-642,North Language,Toys,Puzzles,817.36,340.71
+PROD-643,Knowledge Attorney,Electronics,Headphones,101.68,53.71
+PROD-644,Ago North,Toys,Board Games,788.03,442.88
+PROD-645,Without Bed,Furniture,Tables,647.63,367.43
+PROD-646,Political Article,Furniture,Tables,491.12,284.47
+PROD-647,Range Everything,Clothing,Jackets,216.06,147.73
+PROD-648,Heavy Later,Books,Non-fiction,316.31,190.21
+PROD-649,Like Chair,Clothing,Shoes,80.5,36.41
+PROD-650,President Along,Clothing,Shirts,784.28,476.52
+PROD-651,Common Main,Home Goods,Decor,373.93,253.69
+PROD-652,Site House,Books,Non-fiction,55.89,23.95
+PROD-653,Explain Wish,Electronics,Laptops,222.44,117.27
+PROD-654,Hold Great,Clothing,Shoes,871.67,383.2
+PROD-655,National One,Home Goods,Decor,619.35,424.42
+PROD-656,Western Young,Clothing,Jackets,270.94,143.68
+PROD-657,Arm Else,Home Goods,Kitchenware,700.59,436.99
+PROD-658,Represent Fire,Clothing,Shirts,662.39,303.73
+PROD-659,Year Ball,Toys,Puzzles,860.92,466.21
+PROD-660,Another Thing,Books,Children's,854.34,434.82
+PROD-661,Billion Civil,Electronics,Headphones,493.82,341.15
+PROD-662,Direction During,Books,Children's,99.58,53.73
+PROD-663,Street Send,Electronics,Headphones,711.61,375.39
+PROD-664,Decade Thought,Electronics,Smartphones,313.29,172.92
+PROD-665,Best Thought,Books,Fiction,158.65,71.65
+PROD-666,Ability Between,Toys,Puzzles,557.62,365.71
+PROD-667,The Find,Toys,Puzzles,485.52,219.04
+PROD-668,Reach Value,Toys,Board Games,445.1,193.27
+PROD-669,Human Service,Books,Children's,695.23,464.86
+PROD-670,Race Store,Clothing,Pants,621.51,283.67
+PROD-671,Throughout Property,Home Goods,Bedding,572.53,395.62
+PROD-672,Admit Down,Furniture,Beds,527.03,318.57
+PROD-673,Prepare Significant,Toys,Puzzles,356.98,233.42
+PROD-674,Least Could,Furniture,Tables,573.85,304.62
+PROD-675,List Individual,Home Goods,Kitchenware,967.37,514.35
+PROD-676,Newspaper Growth,Home Goods,Bedding,421.66,285.89
+PROD-677,Save Court,Books,Comics,358.88,185.75
+PROD-678,Instead Stand,Electronics,Smartphones,56.34,37.58
+PROD-679,Hope Section,Home Goods,Decor,916.02,588.19
+PROD-680,Care Month,Electronics,Smartphones,813.72,548.95
+PROD-681,Offer But,Books,Children's,370.66,223.01
+PROD-682,Style Region,Home Goods,Lighting,214.05,85.85
+PROD-683,Lead Very,Home Goods,Lighting,82.31,45.87
+PROD-684,Evening Teach,Books,Non-fiction,165.54,83.82
+PROD-685,Spring Box,Home Goods,Kitchenware,389.31,161.62
+PROD-686,Fast Onto,Furniture,Beds,450.55,293.89
+PROD-687,Science Executive,Home Goods,Decor,845.61,470.38
+PROD-688,Last Bring,Clothing,Pants,61.43,32.1
+PROD-689,Close Hair,Books,Children's,683.82,470.88
+PROD-690,Include Information,Clothing,Shirts,43.64,25.9
+PROD-691,Significant Suffer,Furniture,Tables,259.91,119.59
+PROD-692,Very Star,Electronics,Headphones,942.36,482.53
+PROD-693,World Someone,Clothing,Pants,280.31,195.71
+PROD-694,Staff Job,Home Goods,Bedding,132.14,76.15
+PROD-695,Career Today,Electronics,Laptops,122.99,71.94
+PROD-696,Exactly Hand,Books,Children's,546.95,262.96
+PROD-697,Address Room,Electronics,Smartphones,851.75,547.61
+PROD-698,Situation Security,Books,Non-fiction,350.04,222.83
+PROD-699,Generation Although,Clothing,Shirts,252.19,138.65
+PROD-700,President Middle,Books,Non-fiction,610.78,333.77
+PROD-701,Film Skin,Home Goods,Kitchenware,17.37,8.5
+PROD-702,Own Theory,Furniture,Sofas,867.66,388.41
+PROD-703,Nation Yes,Toys,Puzzles,774.47,539.85
+PROD-704,Perform Food,Furniture,Chairs,140.59,79.42
+PROD-705,Past Woman,Books,Children's,738.07,394.45
+PROD-706,Add Environmental,Electronics,Laptops,170.52,79.86
+PROD-707,Necessary Rule,Clothing,Shoes,196.52,117.14
+PROD-708,Behavior Own,Home Goods,Bedding,206.56,85.53
+PROD-709,Fish Eight,Toys,Action Figures,937.79,648.92
+PROD-710,Maintain Short,Clothing,Shirts,284.02,120.26
+PROD-711,Run Seek,Home Goods,Kitchenware,43.23,26.14
+PROD-712,Sit Agree,Toys,Puzzles,166.98,75.0
+PROD-713,Good Range,Furniture,Sofas,913.37,562.04
+PROD-714,Media Decade,Furniture,Beds,714.51,495.13
+PROD-715,Speech Leg,Home Goods,Bedding,716.24,452.87
+PROD-716,Discover There,Books,Comics,367.96,151.29
+PROD-717,Item Address,Clothing,Shoes,454.47,243.6
+PROD-718,Design Company,Clothing,Jackets,172.24,109.69
+PROD-719,Event Social,Clothing,Shirts,474.42,214.56
+PROD-720,Forward Picture,Toys,Dolls,503.17,258.32
+PROD-721,Region Loss,Books,Fiction,811.17,399.94
+PROD-722,Doctor You,Books,Comics,547.19,319.58
+PROD-723,Bed War,Electronics,Smartphones,356.32,157.67
+PROD-724,Line Guess,Clothing,Shirts,206.8,133.03
+PROD-725,Rate Enough,Books,Comics,870.86,397.12
+PROD-726,Laugh Give,Home Goods,Decor,883.97,500.37
+PROD-727,Hit Benefit,Home Goods,Lighting,271.76,155.66
+PROD-728,Success Camera,Furniture,Tables,834.62,391.03
+PROD-729,Economy Impact,Electronics,Laptops,129.65,82.02
+PROD-730,Measure Woman,Clothing,Pants,277.6,160.08
+PROD-731,Mrs Less,Toys,Puzzles,906.94,372.62
+PROD-732,Perform Social,Clothing,Shirts,516.48,223.01
+PROD-733,Shoulder Win,Books,Fiction,776.63,529.55
+PROD-734,Little Book,Home Goods,Lighting,397.54,251.96
+PROD-735,Sing Address,Toys,Puzzles,421.14,207.25
+PROD-736,Over War,Furniture,Chairs,883.31,596.79
+PROD-737,Read Quickly,Home Goods,Bedding,525.56,225.7
+PROD-738,Stay Learn,Books,Non-fiction,576.41,312.07
+PROD-739,Give Other,Electronics,Laptops,553.78,237.37
+PROD-740,Experience Pull,Home Goods,Decor,279.95,171.73
+PROD-741,Term Phone,Electronics,Laptops,672.87,335.76
+PROD-742,Real Hair,Toys,Dolls,158.77,72.05
+PROD-743,Think Place,Toys,Dolls,621.68,393.43
+PROD-744,Then After,Books,Children's,719.14,399.18
+PROD-745,Life Inside,Furniture,Tables,300.82,131.0
+PROD-746,Affect Situation,Furniture,Tables,881.01,610.95
+PROD-747,Guy Trade,Electronics,Smartphones,478.18,334.54
+PROD-748,Charge Democrat,Furniture,Chairs,978.93,564.53
+PROD-749,Exist Particular,Home Goods,Kitchenware,354.82,211.12
+PROD-750,Report Drug,Clothing,Shirts,495.18,284.96
+PROD-751,Cell Right,Books,Children's,17.93,9.0
+PROD-752,Rule Safe,Books,Non-fiction,43.1,20.15
+PROD-753,Them Suggest,Electronics,Smartphones,41.87,17.33
+PROD-754,Unit Enjoy,Clothing,Shirts,560.59,266.12
+PROD-755,Physical Majority,Electronics,Headphones,354.24,240.42
+PROD-756,Past Likely,Electronics,Smartphones,943.33,414.8
+PROD-757,Like International,Furniture,Beds,384.97,253.08
+PROD-758,Home Teacher,Furniture,Sofas,248.87,148.44
+PROD-759,Wife Prove,Electronics,Tablets,402.84,237.62
+PROD-760,Board Direction,Furniture,Chairs,267.11,163.24
+PROD-761,Break Appear,Toys,Action Figures,78.14,52.4
+PROD-762,Base Room,Clothing,Jackets,903.48,431.65
+PROD-763,My Its,Home Goods,Bedding,982.2,410.0
+PROD-764,Nice Yourself,Furniture,Tables,354.83,175.15
+PROD-765,Listen Investment,Toys,Puzzles,945.97,546.13
+PROD-766,Statement Ability,Books,Comics,714.63,431.67
+PROD-767,Require Movement,Books,Non-fiction,670.61,298.31
+PROD-768,Thought Mother,Home Goods,Lighting,262.18,166.63
+PROD-769,Eat Yes,Toys,Puzzles,700.12,418.07
+PROD-770,Pretty Material,Books,Comics,380.29,153.65
+PROD-771,Eight Customer,Toys,Action Figures,364.62,211.28
+PROD-772,Star Difficult,Books,Fiction,89.77,37.51
+PROD-773,His Account,Toys,Puzzles,749.23,395.58
+PROD-774,Friend Fund,Electronics,Smartphones,946.41,463.63
+PROD-775,Maintain Increase,Clothing,Jackets,756.1,483.14
+PROD-776,Phone Along,Electronics,Headphones,864.36,512.4
+PROD-777,War Skill,Furniture,Chairs,741.79,370.36
+PROD-778,Usually Market,Home Goods,Lighting,832.27,509.46
+PROD-779,Game Car,Home Goods,Kitchenware,859.95,403.87
+PROD-780,Color Find,Clothing,Pants,833.06,546.0
+PROD-781,End Account,Clothing,Shirts,265.4,144.37
+PROD-782,American Speech,Electronics,Headphones,109.38,66.72
+PROD-783,Customer Yeah,Clothing,Pants,613.75,341.41
+PROD-784,Two Billion,Clothing,Jackets,706.99,490.2
+PROD-785,Hold Play,Toys,Puzzles,695.62,369.56
+PROD-786,Across Share,Furniture,Chairs,835.49,578.28
+PROD-787,Science Add,Clothing,Shirts,665.76,388.18
+PROD-788,Center Truth,Furniture,Beds,857.25,567.32
+PROD-789,Final Miss,Home Goods,Lighting,718.67,368.37
+PROD-790,Focus Author,Clothing,Jackets,804.4,366.96
+PROD-791,Last Say,Toys,Board Games,569.14,280.17
+PROD-792,Girl Magazine,Clothing,Shoes,276.62,138.34
+PROD-793,Material Child,Home Goods,Kitchenware,169.28,115.17
+PROD-794,Data Father,Home Goods,Lighting,97.14,50.24
+PROD-795,Computer Ever,Furniture,Tables,29.56,19.63
+PROD-796,There Game,Toys,Dolls,17.08,11.47
+PROD-797,Fly Learn,Electronics,Headphones,772.74,355.64
+PROD-798,Base Night,Books,Non-fiction,42.99,23.1
+PROD-799,Audience Sure,Books,Non-fiction,292.28,159.87
+PROD-800,Central Now,Electronics,Laptops,11.57,5.48
+PROD-801,Represent Treatment,Books,Fiction,700.95,422.69
+PROD-802,Field Style,Clothing,Shirts,366.27,171.24
+PROD-803,Listen Candidate,Electronics,Headphones,608.25,350.76
+PROD-804,Direction Set,Toys,Board Games,577.77,272.26
+PROD-805,Form Physical,Toys,Board Games,660.66,277.76
+PROD-806,Your Just,Books,Fiction,188.36,127.72
+PROD-807,Research Development,Electronics,Laptops,730.44,364.49
+PROD-808,Practice Cover,Toys,Action Figures,965.26,428.22
+PROD-809,Return Remember,Electronics,Tablets,675.33,319.34
+PROD-810,Enough Suffer,Furniture,Beds,849.39,538.72
+PROD-811,Program You,Electronics,Smartphones,678.61,397.83
+PROD-812,Apply Play,Furniture,Tables,31.23,13.44
+PROD-813,Ahead Your,Furniture,Tables,44.73,20.56
+PROD-814,Question Us,Toys,Puzzles,42.18,24.08
+PROD-815,Parent Daughter,Furniture,Chairs,259.7,120.16
+PROD-816,Range Sometimes,Toys,Board Games,595.4,386.83
+PROD-817,Kid Team,Clothing,Pants,797.9,439.83
+PROD-818,Defense Amount,Electronics,Tablets,562.65,368.3
+PROD-819,Mind Better,Furniture,Sofas,319.39,195.58
+PROD-820,Movement They,Electronics,Smartphones,609.46,371.22
+PROD-821,General Maybe,Toys,Dolls,828.94,407.73
+PROD-822,Especially Tough,Clothing,Shoes,544.23,311.54
+PROD-823,Edge Involve,Furniture,Beds,513.79,250.32
+PROD-824,In Policy,Books,Fiction,694.77,470.81
+PROD-825,Worker Surface,Electronics,Tablets,297.93,127.98
+PROD-826,Year Have,Books,Comics,958.97,491.76
+PROD-827,Once Hard,Home Goods,Decor,740.67,508.37
+PROD-828,Explain Chance,Furniture,Beds,647.91,265.74
+PROD-829,Can Base,Home Goods,Kitchenware,816.75,490.68
+PROD-830,Contain Specific,Electronics,Laptops,977.06,670.78
+PROD-831,Doctor Theory,Clothing,Shoes,719.68,332.66
+PROD-832,Technology Turn,Furniture,Tables,878.35,477.69
+PROD-833,Herself Big,Books,Children's,209.42,141.72
+PROD-834,Race Film,Clothing,Shoes,261.42,121.93
+PROD-835,Old Also,Electronics,Laptops,994.41,424.39
+PROD-836,Action Finally,Electronics,Headphones,869.62,409.84
+PROD-837,Entire Exist,Books,Fiction,45.25,25.25
+PROD-838,Weight Fall,Clothing,Jackets,77.52,32.01
+PROD-839,Hope Ever,Books,Children's,590.35,389.35
+PROD-840,Individual See,Furniture,Chairs,100.61,70.41
+PROD-841,Will Prevent,Books,Children's,745.49,401.0
+PROD-842,Head Very,Books,Non-fiction,104.37,50.64
+PROD-843,My Hundred,Clothing,Jackets,285.56,141.25
+PROD-844,Production High,Toys,Action Figures,805.15,543.96
+PROD-845,Pretty Possible,Home Goods,Kitchenware,472.85,190.87
+PROD-846,Ahead Citizen,Toys,Action Figures,592.46,298.9
+PROD-847,Prevent There,Clothing,Jackets,588.02,372.61
+PROD-848,Response View,Toys,Action Figures,688.57,406.56
+PROD-849,Home Group,Books,Children's,471.35,212.91
+PROD-850,Concern Partner,Electronics,Smartphones,840.21,531.9
+PROD-851,Morning Loss,Electronics,Tablets,673.32,273.21
+PROD-852,Pattern He,Clothing,Shirts,549.24,330.68
+PROD-853,Loss Adult,Toys,Dolls,890.11,533.37
+PROD-854,Ability Moment,Toys,Dolls,981.38,439.19
+PROD-855,Situation Mention,Toys,Puzzles,224.08,135.02
+PROD-856,Learn Seem,Furniture,Sofas,517.36,314.91
+PROD-857,Control Task,Furniture,Tables,217.55,149.51
+PROD-858,Seem Arm,Electronics,Smartphones,358.36,204.55
+PROD-859,Benefit Through,Home Goods,Lighting,779.18,461.07
+PROD-860,Sister Campaign,Toys,Dolls,24.35,16.43
+PROD-861,Cover Usually,Books,Fiction,618.66,250.16
+PROD-862,Lay College,Home Goods,Bedding,419.21,196.63
+PROD-863,All Ok,Toys,Puzzles,405.41,204.92
+PROD-864,Price Affect,Clothing,Shoes,878.53,603.84
+PROD-865,Authority Claim,Electronics,Laptops,535.09,255.03
+PROD-866,Attorney During,Furniture,Tables,439.44,289.98
+PROD-867,Style Often,Home Goods,Bedding,679.49,321.61
+PROD-868,Home Treatment,Toys,Action Figures,735.83,413.14
+PROD-869,Sea Leg,Clothing,Jackets,805.1,470.13
+PROD-870,Direction Project,Clothing,Shoes,854.77,389.29
+PROD-871,Drop Election,Clothing,Pants,738.03,471.09
+PROD-872,Just In,Home Goods,Bedding,375.23,253.76
+PROD-873,Congress Debate,Furniture,Beds,624.38,415.48
+PROD-874,Machine Unit,Furniture,Tables,242.52,149.91
+PROD-875,Just Live,Clothing,Shirts,800.97,478.54
+PROD-876,Since Follow,Books,Fiction,478.25,323.25
+PROD-877,Same Job,Furniture,Tables,256.06,138.61
+PROD-878,Democratic Treat,Books,Fiction,347.52,140.51
+PROD-879,Lawyer Continue,Books,Comics,967.1,584.01
+PROD-880,Brother Kitchen,Books,Non-fiction,793.81,437.25
+PROD-881,Though Yeah,Furniture,Tables,930.37,647.46
+PROD-882,Step Along,Clothing,Jackets,788.6,449.55
+PROD-883,Week Store,Furniture,Beds,984.93,428.56
+PROD-884,Lead Young,Home Goods,Kitchenware,846.23,384.72
+PROD-885,Near Least,Furniture,Beds,178.32,116.02
+PROD-886,Staff Theory,Home Goods,Bedding,595.65,337.9
+PROD-887,Face Chance,Books,Children's,473.46,307.92
+PROD-888,Bag Young,Electronics,Laptops,866.87,532.55
+PROD-889,Single Stock,Toys,Action Figures,866.38,592.94
+PROD-890,Dinner Yes,Home Goods,Bedding,86.99,58.58
+PROD-891,Second Unit,Electronics,Laptops,118.66,49.23
+PROD-892,Fast Can,Furniture,Chairs,474.08,200.17
+PROD-893,Story Middle,Furniture,Sofas,111.91,73.04
+PROD-894,As Once,Furniture,Chairs,445.03,297.91
+PROD-895,Wish Rock,Electronics,Tablets,542.55,344.45
+PROD-896,Begin Tax,Furniture,Beds,464.54,292.99
+PROD-897,Out Prove,Books,Children's,979.98,519.47
+PROD-898,Set Billion,Electronics,Tablets,618.44,254.98
+PROD-899,Son Local,Clothing,Pants,86.37,45.18
+PROD-900,Affect Exist,Home Goods,Decor,563.42,244.83
+PROD-901,President Leader,Books,Non-fiction,463.51,209.76
+PROD-902,Boy Force,Furniture,Chairs,860.55,464.35
+PROD-903,Per Wall,Furniture,Beds,474.86,278.2
+PROD-904,Wish Thousand,Clothing,Shirts,62.4,29.44
+PROD-905,National Red,Home Goods,Decor,502.0,246.23
+PROD-906,Present Character,Books,Comics,756.57,438.32
+PROD-907,Mrs Customer,Furniture,Chairs,96.7,41.19
+PROD-908,Face Senior,Furniture,Sofas,399.52,271.62
+PROD-909,Event Today,Electronics,Tablets,469.53,228.87
+PROD-910,Serious Join,Toys,Action Figures,20.85,12.29
+PROD-911,We Whole,Books,Non-fiction,598.1,386.92
+PROD-912,Herself Score,Electronics,Smartphones,223.14,120.34
+PROD-913,Visit Much,Clothing,Shirts,975.2,547.96
+PROD-914,Agree Practice,Clothing,Pants,455.58,317.15
+PROD-915,Eye For,Toys,Action Figures,891.75,591.9
+PROD-916,Despite Player,Books,Fiction,407.37,272.36
+PROD-917,Remember Kitchen,Home Goods,Kitchenware,622.19,407.65
+PROD-918,Ground Most,Clothing,Jackets,543.17,363.85
+PROD-919,Somebody Either,Electronics,Smartphones,321.53,197.96
+PROD-920,During Power,Electronics,Laptops,656.84,379.03
+PROD-921,Threat Agree,Books,Comics,59.07,26.29
+PROD-922,Thousand Fast,Furniture,Tables,646.22,404.05
+PROD-923,Number Build,Books,Children's,428.95,247.17
+PROD-924,Near Free,Furniture,Sofas,741.84,461.75
+PROD-925,Size Physical,Home Goods,Kitchenware,659.76,294.03
+PROD-926,Item Guess,Clothing,Pants,967.87,554.55
+PROD-927,Model Reach,Furniture,Sofas,525.25,265.76
+PROD-928,Continue Along,Toys,Puzzles,456.91,308.42
+PROD-929,Note Blue,Clothing,Shirts,163.55,107.81
+PROD-930,Result New,Toys,Dolls,680.74,299.04
+PROD-931,Interest Prepare,Books,Children's,277.15,150.75
+PROD-932,Then Raise,Home Goods,Decor,368.17,187.57
+PROD-933,Listen Both,Toys,Dolls,143.68,95.58
+PROD-934,Prevent Special,Books,Non-fiction,390.3,228.93
+PROD-935,Laugh Address,Books,Non-fiction,530.55,290.61
+PROD-936,Dog News,Clothing,Shirts,866.61,603.47
+PROD-937,Hair Kitchen,Clothing,Shirts,791.62,493.36
+PROD-938,Follow Then,Toys,Dolls,579.7,296.34
+PROD-939,Rest Soldier,Furniture,Chairs,434.15,253.02
+PROD-940,Ready Difference,Home Goods,Lighting,451.66,280.99
+PROD-941,Take Design,Furniture,Chairs,134.43,79.35
+PROD-942,Election Community,Home Goods,Bedding,986.1,596.71
+PROD-943,Report Purpose,Toys,Action Figures,552.16,249.88
+PROD-944,Themselves Property,Toys,Puzzles,11.26,4.86
+PROD-945,Record Part,Toys,Puzzles,219.47,139.49
+PROD-946,Begin Ago,Furniture,Chairs,908.45,427.22
+PROD-947,Play Happy,Clothing,Shirts,827.69,432.49
+PROD-948,Will Question,Books,Children's,285.3,184.25
+PROD-949,Class Hard,Electronics,Laptops,501.65,332.68
+PROD-950,Gun Can,Home Goods,Kitchenware,572.64,255.63
+PROD-951,I Another,Books,Fiction,301.46,145.31
+PROD-952,Often Yet,Furniture,Tables,642.63,261.75
+PROD-953,Specific Agreement,Electronics,Tablets,322.56,186.99
+PROD-954,Perhaps Mind,Books,Comics,371.46,218.64
+PROD-955,Business Education,Furniture,Sofas,159.71,70.97
+PROD-956,Process Number,Clothing,Jackets,903.03,612.05
+PROD-957,View Result,Furniture,Tables,108.0,59.51
+PROD-958,Season Take,Furniture,Sofas,549.97,358.67
+PROD-959,Take Close,Toys,Board Games,504.01,332.17
+PROD-960,Reflect Section,Home Goods,Bedding,467.05,244.45
+PROD-961,Consider Recent,Books,Fiction,89.65,47.39
+PROD-962,Program Dream,Books,Comics,834.51,518.84
+PROD-963,Growth Answer,Clothing,Shoes,257.48,111.36
+PROD-964,Spring Safe,Home Goods,Lighting,271.6,131.01
+PROD-965,Where Low,Toys,Puzzles,518.53,256.12
+PROD-966,Blue Control,Clothing,Shirts,146.55,90.49
+PROD-967,Player Performance,Home Goods,Kitchenware,389.33,245.44
+PROD-968,Can Accept,Books,Children's,736.92,479.82
+PROD-969,Create Building,Clothing,Jackets,930.63,419.09
+PROD-970,Artist After,Electronics,Smartphones,977.64,436.19
+PROD-971,Physical Call,Electronics,Smartphones,875.9,583.51
+PROD-972,Heart Chance,Toys,Puzzles,51.08,30.73
+PROD-973,Fear Else,Books,Fiction,424.15,278.4
+PROD-974,Option Open,Furniture,Sofas,341.81,146.2
+PROD-975,Position Animal,Electronics,Headphones,145.9,93.6
+PROD-976,Standard Garden,Home Goods,Lighting,808.8,340.46
+PROD-977,One Move,Toys,Dolls,812.11,482.08
+PROD-978,Race Respond,Clothing,Jackets,755.11,466.77
+PROD-979,Cost Me,Home Goods,Lighting,831.4,472.44
+PROD-980,Fund Increase,Electronics,Tablets,975.55,437.1
+PROD-981,Price Thank,Home Goods,Bedding,982.43,502.87
+PROD-982,Hit Treat,Furniture,Sofas,616.15,276.5
+PROD-983,Reason Shake,Home Goods,Decor,734.34,441.92
+PROD-984,And When,Furniture,Tables,547.95,369.7
+PROD-985,Wind Voice,Toys,Dolls,230.39,113.82
+PROD-986,Management Beat,Toys,Dolls,790.09,427.85
+PROD-987,Rise Early,Clothing,Shoes,962.03,424.6
+PROD-988,Modern Recognize,Books,Children's,830.39,415.56
+PROD-989,Call Policy,Clothing,Jackets,230.01,140.42
+PROD-990,Suggest Smile,Electronics,Headphones,827.4,423.54
+PROD-991,Responsibility Suddenly,Toys,Action Figures,241.86,108.32
+PROD-992,Security Ahead,Furniture,Tables,74.83,44.11
+PROD-993,Consumer College,Home Goods,Bedding,481.41,200.78
+PROD-994,Mouth Bring,Electronics,Tablets,547.21,371.65
+PROD-995,Base Size,Clothing,Pants,159.62,93.57
+PROD-996,Leave Serve,Books,Comics,20.56,11.86
+PROD-997,Against Into,Home Goods,Decor,634.68,323.55
+PROD-998,Movie Top,Toys,Dolls,687.08,416.81
+PROD-999,A Without,Books,Children's,59.1,27.33
+PROD-1000,Hit Itself,Clothing,Shirts,872.81,556.24

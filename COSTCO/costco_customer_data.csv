@@ -1,0 +1,1001 @@
+Customer ID,Name,Segment,Country-City,State,Postal Code,Region
+CUST-001,Ronald Carroll,Corporate,United States - Chicago,South Carolina,3017,Central
+CUST-002,Ann Smith,Home Office,United States - Philadelphia,California,66643,East
+CUST-003,Diane Mccoy,Home Office,United States - Denver,Vermont,4187,East
+CUST-004,Alan Bailey,Consumer,United States - Seattle,Maryland,95920,West
+CUST-005,Glenn Anderson,Corporate,United States - Washington,Iowa,43465,West
+CUST-006,Kim Long,Corporate,United States - Denver,Kentucky,2854,West
+CUST-007,John Norman,Consumer,United States - Seattle,New York,60678,North
+CUST-008,Jill Miller,Corporate,United States - Indianapolis,Arkansas,90066,East
+CUST-009,Dillon Smith,Consumer,United States - Seattle,Virginia,97793,South
+CUST-010,Kelly Lang,Consumer,United States - San Diego,Alabama,29598,West
+CUST-011,Taylor Martin,Consumer,United States - Houston,Kansas,96640,East
+CUST-012,Abigail Castillo,Consumer,United States - Jacksonville,Wyoming,79587,Central
+CUST-013,John Robinson,Corporate,United States - Chicago,Missouri,35197,East
+CUST-014,Cameron Allen,Corporate,United States - Los Angeles,Iowa,97228,East
+CUST-015,Troy Hurst,Corporate,United States - Denver,New York,73224,Central
+CUST-016,Brittany Gilbert,Home Office,United States - Denver,Arkansas,98086,North
+CUST-017,Jesse Brown,Home Office,United States - Chicago,Montana,99731,West
+CUST-018,Terri Gutierrez,Consumer,United States - Fort Worth,Alaska,13275,East
+CUST-019,Jennifer Abbott,Corporate,United States - New York,Minnesota,72311,East
+CUST-020,Ronald Washington,Corporate,United States - Austin,West Virginia,65657,South
+CUST-021,Sarah Buchanan,Corporate,United States - Austin,Kentucky,6841,Central
+CUST-022,Donald Harvey,Home Office,United States - Columbus,Iowa,32071,West
+CUST-023,Michelle Petersen,Consumer,United States - Charlotte,Iowa,92968,East
+CUST-024,Jason Wilson,Corporate,United States - Fort Worth,Maine,61702,Central
+CUST-025,Christopher Blair,Consumer,United States - Denver,Michigan,21030,North
+CUST-026,Joseph Williams,Home Office,United States - Jacksonville,Iowa,77624,North
+CUST-027,Dr. Megan Cox,Home Office,United States - Indianapolis,Iowa,1128,North
+CUST-028,Mark Leonard,Consumer,United States - Indianapolis,Michigan,43964,East
+CUST-029,Lauren Ramirez,Home Office,United States - San Francisco,Indiana,73295,East
+CUST-030,Victor Howard,Consumer,United States - Fort Worth,Michigan,23967,Central
+CUST-031,Wesley Martinez,Home Office,United States - San Francisco,Tennessee,41156,North
+CUST-032,Steven Wright,Home Office,United States - San Antonio,North Carolina,13218,North
+CUST-033,Jonathan Johnson,Home Office,United States - San Diego,Florida,69656,Central
+CUST-034,Joshua Fisher,Consumer,United States - Seattle,New Mexico,51946,Central
+CUST-035,George Weaver,Consumer,United States - Columbus,Michigan,25763,North
+CUST-036,Victoria Kelly,Corporate,United States - Jacksonville,Texas,89724,South
+CUST-037,Gina Adkins,Consumer,United States - Charlotte,New Hampshire,49143,North
+CUST-038,Christian Brown,Corporate,United States - Fort Worth,Michigan,72280,South
+CUST-039,Beth Baker,Corporate,United States - Dallas,Arizona,34027,North
+CUST-040,Michaela Parker,Consumer,United States - Columbus,North Dakota,37590,West
+CUST-041,Travis Kidd,Corporate,United States - Seattle,North Dakota,66354,West
+CUST-042,Collin Fry,Consumer,United States - Austin,Pennsylvania,1785,Central
+CUST-043,David Miller,Corporate,United States - Dallas,Virginia,42497,North
+CUST-044,Kevin Le,Corporate,United States - Phoenix,Arizona,88563,South
+CUST-045,Matthew Mendez,Corporate,United States - Denver,Hawaii,48697,East
+CUST-046,Maria Larson,Home Office,United States - Dallas,Florida,92552,Central
+CUST-047,Jamie Mccarthy,Home Office,United States - Denver,Virginia,65024,East
+CUST-048,Raymond Gordon,Corporate,United States - Indianapolis,Texas,19242,North
+CUST-049,Preston Edwards,Corporate,United States - San Francisco,West Virginia,10392,North
+CUST-050,Mrs. Jessica Clark,Home Office,United States - San Jose,Ohio,99338,South
+CUST-051,Sarah Davis,Corporate,United States - Charlotte,Vermont,46267,East
+CUST-052,Alyssa Robinson,Home Office,United States - Los Angeles,New Hampshire,49274,South
+CUST-053,David Edwards,Home Office,United States - Dallas,Wyoming,71014,West
+CUST-054,Cassidy Clark,Home Office,United States - Columbus,Hawaii,76468,East
+CUST-055,Russell Lawrence,Home Office,United States - San Jose,Florida,7862,West
+CUST-056,Abigail Adams,Consumer,United States - Dallas,Kentucky,95373,West
+CUST-057,Steven Casey,Corporate,United States - Indianapolis,South Carolina,36955,South
+CUST-058,Randy Johnson,Home Office,United States - Indianapolis,New Jersey,6275,East
+CUST-059,Matthew Phillips,Corporate,United States - Dallas,Nevada,76630,Central
+CUST-060,Joshua Wise,Consumer,United States - New York,Arkansas,25877,West
+CUST-061,Jack Hansen,Consumer,United States - San Jose,Connecticut,27629,West
+CUST-062,Justin Johnson,Home Office,United States - Jacksonville,South Dakota,97874,West
+CUST-063,Riley Elliott,Home Office,United States - San Diego,Maine,24227,North
+CUST-064,Matthew Jones,Consumer,United States - Columbus,Wisconsin,21791,North
+CUST-065,Tracy Phillips,Corporate,United States - Denver,Vermont,99058,North
+CUST-066,Antonio Clark,Consumer,United States - Seattle,North Dakota,21433,Central
+CUST-067,Cody Newman,Corporate,United States - Philadelphia,Idaho,60829,North
+CUST-068,Kenneth Hurley,Home Office,United States - Philadelphia,Ohio,80350,West
+CUST-069,Samuel Cooley,Home Office,United States - Philadelphia,New Jersey,85391,East
+CUST-070,Marcus Nelson,Consumer,United States - New York,South Dakota,28811,South
+CUST-071,Tammy Jones,Consumer,United States - Philadelphia,Maryland,46653,South
+CUST-072,Gerald Bailey,Consumer,United States - Denver,Nebraska,73727,West
+CUST-073,Samantha Burnett,Consumer,United States - New York,Louisiana,40911,West
+CUST-074,Eric Bennett,Consumer,United States - Phoenix,Arkansas,82664,West
+CUST-075,Emily Moore,Corporate,United States - San Jose,Kentucky,15572,Central
+CUST-076,Heather Russell,Corporate,United States - Los Angeles,California,83210,Central
+CUST-077,Kelly Mora,Corporate,United States - Los Angeles,New York,85984,East
+CUST-078,Jonathan Burnett,Consumer,United States - Fort Worth,Illinois,95331,West
+CUST-079,Latoya Smith,Home Office,United States - Seattle,Virginia,24403,East
+CUST-080,Lauren Hardy,Corporate,United States - Los Angeles,Massachusetts,66833,East
+CUST-081,Jeffrey Murphy,Consumer,United States - Phoenix,California,31488,South
+CUST-082,Michaela Hayes,Home Office,United States - Columbus,Virginia,30847,South
+CUST-083,Robin Lynch,Consumer,United States - San Jose,South Dakota,89305,South
+CUST-084,Jordan Hogan,Consumer,United States - Houston,New York,22609,Central
+CUST-085,Elaine Sims,Corporate,United States - Austin,Connecticut,91182,North
+CUST-086,Joe Flores,Corporate,United States - San Diego,Vermont,9122,West
+CUST-087,Dawn Torres,Home Office,United States - Washington,Oklahoma,62288,West
+CUST-088,Michelle Fox,Corporate,United States - Los Angeles,Louisiana,33336,South
+CUST-089,Allison Williams,Corporate,United States - Seattle,Kentucky,29866,Central
+CUST-090,Lisa Melton,Corporate,United States - San Jose,Louisiana,33808,North
+CUST-091,Andrea Wright,Home Office,United States - Dallas,Minnesota,33789,North
+CUST-092,Eric Perry,Home Office,United States - Dallas,Maryland,10686,Central
+CUST-093,Karen Hubbard,Corporate,United States - New York,Oregon,22507,East
+CUST-094,Theresa Garrett,Consumer,United States - Seattle,Vermont,24996,West
+CUST-095,Jessica Mathews,Home Office,United States - Denver,South Dakota,19382,East
+CUST-096,Nicole Knight,Corporate,United States - San Antonio,Tennessee,63149,South
+CUST-097,Kathleen Hensley,Consumer,United States - Columbus,Georgia,46691,Central
+CUST-098,Jose Garcia DDS,Corporate,United States - Charlotte,Missouri,37522,East
+CUST-099,Jorge Stewart,Corporate,United States - Columbus,Texas,11318,East
+CUST-100,Brenda Green,Corporate,United States - Columbus,South Dakota,12916,South
+CUST-101,Norma Swanson,Consumer,United States - Indianapolis,Montana,57695,Central
+CUST-102,Robin Collins,Consumer,United States - Austin,Maine,13673,North
+CUST-103,Scott Daugherty,Home Office,United States - San Antonio,New Hampshire,97295,West
+CUST-104,Megan Ross,Home Office,United States - Philadelphia,Utah,51520,North
+CUST-105,Johnny Hunter,Consumer,United States - Fort Worth,South Dakota,36686,West
+CUST-106,Anna Russell,Corporate,United States - Austin,Delaware,94784,North
+CUST-107,Larry Dunlap,Home Office,United States - Philadelphia,Ohio,2515,West
+CUST-108,Deborah Cook,Corporate,United States - Charlotte,West Virginia,70698,North
+CUST-109,David Reynolds,Consumer,United States - Philadelphia,Maryland,74047,West
+CUST-110,Paul Austin,Home Office,United States - Seattle,Wisconsin,63673,South
+CUST-111,Amanda Wilson,Home Office,United States - Denver,Kansas,66506,Central
+CUST-112,Scott Davis,Corporate,United States - Columbus,Virginia,56024,East
+CUST-113,Jessica Hill MD,Consumer,United States - Phoenix,New Jersey,91318,South
+CUST-114,Jordan Freeman,Consumer,United States - Fort Worth,Texas,71611,Central
+CUST-115,Angela Pope,Home Office,United States - Indianapolis,Michigan,53484,East
+CUST-116,Elizabeth Walter,Consumer,United States - Denver,Kansas,13017,South
+CUST-117,Michael Johnson,Corporate,United States - Columbus,Arizona,13306,North
+CUST-118,Ryan Wood,Home Office,United States - San Diego,Virginia,27424,North
+CUST-119,Kathleen Vazquez,Corporate,United States - Houston,Louisiana,84913,Central
+CUST-120,Melanie Grimes,Home Office,United States - San Antonio,Delaware,20537,Central
+CUST-121,Derek Fry,Home Office,United States - Phoenix,Rhode Island,28143,West
+CUST-122,Sheri Bates,Consumer,United States - San Antonio,Alabama,34096,North
+CUST-123,Michelle Thompson,Consumer,United States - Los Angeles,Mississippi,72835,Central
+CUST-124,Charles Mcgrath,Corporate,United States - Philadelphia,Iowa,8745,East
+CUST-125,Robert Jones MD,Consumer,United States - Chicago,New York,88851,East
+CUST-126,Mr. Michael Bell,Consumer,United States - Chicago,Florida,38319,North
+CUST-127,Heather Crawford,Home Office,United States - Washington,Louisiana,64116,Central
+CUST-128,Amber Valencia,Home Office,United States - Jacksonville,Texas,16115,Central
+CUST-129,Benjamin Thornton,Corporate,United States - San Jose,Illinois,9583,Central
+CUST-130,Jaclyn Perez,Corporate,United States - Fort Worth,Arizona,86019,East
+CUST-131,Carla Kelly,Consumer,United States - Los Angeles,Florida,83653,East
+CUST-132,Susan Willis,Consumer,United States - Fort Worth,Wyoming,28363,Central
+CUST-133,Destiny Boyd,Consumer,United States - Chicago,Maryland,2307,East
+CUST-134,Mario Reyes,Consumer,United States - Phoenix,Arkansas,96451,Central
+CUST-135,Joseph Maynard,Corporate,United States - Houston,New Jersey,75195,East
+CUST-136,Jacob Morgan,Consumer,United States - Denver,Alaska,96953,East
+CUST-137,Frank Anderson,Corporate,United States - Houston,Missouri,60595,South
+CUST-138,Mr. Wesley Jones DDS,Home Office,United States - Dallas,Virginia,5657,North
+CUST-139,Hannah Hernandez,Home Office,United States - Houston,Idaho,23986,Central
+CUST-140,Jason Sullivan,Consumer,United States - Houston,Michigan,99513,East
+CUST-141,Jeffrey Wood,Corporate,United States - Phoenix,Wisconsin,23288,South
+CUST-142,Lisa Osborne,Corporate,United States - Fort Worth,New Jersey,5565,East
+CUST-143,Thomas Griffin,Corporate,United States - Chicago,Indiana,86384,West
+CUST-144,Lisa Valdez,Corporate,United States - Phoenix,Colorado,22353,Central
+CUST-145,Robert Sutton,Consumer,United States - San Francisco,Minnesota,968,Central
+CUST-146,Dennis Allen,Consumer,United States - Charlotte,Rhode Island,88438,Central
+CUST-147,Kyle Gates,Corporate,United States - New York,Washington,68819,West
+CUST-148,Terri Moore,Corporate,United States - Columbus,Utah,31127,North
+CUST-149,Jason Martin,Consumer,United States - Washington,Colorado,96627,North
+CUST-150,Jessica Gonzalez,Consumer,United States - Chicago,Missouri,88120,South
+CUST-151,Robin Harris,Consumer,United States - Austin,Delaware,75850,South
+CUST-152,Lee Mcdaniel,Corporate,United States - Dallas,Arizona,78128,West
+CUST-153,Brooke Gonzales,Home Office,United States - Chicago,New Jersey,59166,East
+CUST-154,Michael Bonilla,Consumer,United States - San Diego,Kentucky,92742,East
+CUST-155,George Fletcher,Corporate,United States - Seattle,Hawaii,72623,East
+CUST-156,Melissa Murray,Home Office,United States - Dallas,Utah,67826,South
+CUST-157,Anthony Wu,Home Office,United States - Dallas,Oregon,64990,North
+CUST-158,Renee Allen,Corporate,United States - Indianapolis,Iowa,42639,Central
+CUST-159,Michael Thompson,Consumer,United States - Jacksonville,Louisiana,33998,North
+CUST-160,Jose Glover,Home Office,United States - Los Angeles,Hawaii,92140,East
+CUST-161,Marvin Roy,Home Office,United States - Dallas,Missouri,88776,East
+CUST-162,Erin Butler,Home Office,United States - Chicago,Nevada,25295,Central
+CUST-163,Kristin Quinn,Corporate,United States - New York,California,25948,North
+CUST-164,Barbara Harris,Consumer,United States - Austin,Wyoming,38574,East
+CUST-165,James Wright,Corporate,United States - Chicago,Vermont,97025,North
+CUST-166,Greg Benton,Corporate,United States - Seattle,Texas,40767,West
+CUST-167,Juan Griffin,Consumer,United States - San Jose,Maryland,29593,Central
+CUST-168,Ronald Flores,Corporate,United States - Jacksonville,Alaska,13637,West
+CUST-169,William Cannon,Home Office,United States - Indianapolis,Virginia,3433,Central
+CUST-170,Timothy Moore,Corporate,United States - Seattle,Tennessee,45049,West
+CUST-171,Steve Rice,Corporate,United States - Fort Worth,Indiana,86858,East
+CUST-172,Mary Ellis,Consumer,United States - Fort Worth,Washington,25695,Central
+CUST-173,Shane Ford,Corporate,United States - Philadelphia,Kansas,43712,North
+CUST-174,Nathan Brown,Corporate,United States - Denver,Texas,94868,South
+CUST-175,Gregory Duke,Home Office,United States - Phoenix,Wyoming,3919,South
+CUST-176,Ashley Armstrong,Home Office,United States - Denver,New Hampshire,27431,West
+CUST-177,Tyler Andrews,Consumer,United States - Phoenix,Pennsylvania,77897,North
+CUST-178,Kevin Caldwell,Corporate,United States - Washington,Michigan,52666,West
+CUST-179,Ryan Dyer,Consumer,United States - San Diego,Wisconsin,28375,South
+CUST-180,Christopher Collins,Home Office,United States - Houston,New Hampshire,67602,North
+CUST-181,Latasha Charles,Home Office,United States - Philadelphia,Ohio,34158,Central
+CUST-182,Laura Castillo,Corporate,United States - Washington,Texas,42911,North
+CUST-183,Damon Alvarez,Home Office,United States - Philadelphia,Minnesota,49142,North
+CUST-184,Virginia Morales,Consumer,United States - San Diego,North Carolina,38856,East
+CUST-185,Dominique Carroll,Corporate,United States - Washington,Texas,75055,East
+CUST-186,Amanda Ramirez,Consumer,United States - Houston,Massachusetts,41934,East
+CUST-187,Scott Gomez,Consumer,United States - Phoenix,Mississippi,13442,North
+CUST-188,Stephen Smith,Consumer,United States - Chicago,New York,89051,East
+CUST-189,Blake York,Consumer,United States - San Antonio,New York,88395,North
+CUST-190,Jonathan Gardner,Corporate,United States - Jacksonville,Texas,6130,Central
+CUST-191,Melanie Woods,Home Office,United States - San Francisco,Nevada,20578,West
+CUST-192,Michael Allen MD,Consumer,United States - Columbus,Arizona,54454,Central
+CUST-193,Seth Schneider,Home Office,United States - San Antonio,Louisiana,61904,East
+CUST-194,Eric Johnson,Corporate,United States - Phoenix,Oklahoma,7007,East
+CUST-195,Erin Boone,Consumer,United States - Phoenix,Wisconsin,62502,South
+CUST-196,Robert Johnson,Corporate,United States - Fort Worth,Virginia,57155,Central
+CUST-197,Michael Burns,Consumer,United States - Austin,Louisiana,77874,East
+CUST-198,Robert Austin,Consumer,United States - Washington,Kentucky,1253,Central
+CUST-199,Tina Saunders,Consumer,United States - Philadelphia,Nevada,69949,East
+CUST-200,Christian Schultz,Home Office,United States - Houston,Idaho,54710,Central
+CUST-201,Ashlee Moore,Home Office,United States - Philadelphia,Virginia,40089,West
+CUST-202,Daniel Becker,Home Office,United States - New York,Indiana,44838,North
+CUST-203,Misty Wright,Home Office,United States - San Diego,Indiana,38063,South
+CUST-204,Charles Maldonado,Corporate,United States - Austin,Utah,85021,East
+CUST-205,Nicholas Bates,Home Office,United States - Washington,Wyoming,12169,Central
+CUST-206,Bradley Jordan,Corporate,United States - Dallas,New Jersey,72282,East
+CUST-207,Regina Riley,Consumer,United States - Fort Worth,Wisconsin,80415,North
+CUST-208,Bradley Mclaughlin,Home Office,United States - Fort Worth,Mississippi,38504,South
+CUST-209,Kelly Jones,Corporate,United States - Chicago,Massachusetts,65009,West
+CUST-210,Patricia Martin,Consumer,United States - Columbus,New York,92457,East
+CUST-211,Shannon Warren,Corporate,United States - Phoenix,Delaware,56968,West
+CUST-212,Anthony Baxter,Home Office,United States - San Jose,Michigan,56084,South
+CUST-213,Ronald Hardy,Home Office,United States - Chicago,Alaska,49703,Central
+CUST-214,Isabella Oconnell,Consumer,United States - Fort Worth,Nevada,38531,East
+CUST-215,Danielle Barnes,Consumer,United States - Austin,Tennessee,10918,North
+CUST-216,Suzanne Hester,Home Office,United States - Chicago,Pennsylvania,30698,West
+CUST-217,Becky Sanders,Corporate,United States - Jacksonville,Tennessee,29219,East
+CUST-218,Matthew Michael,Home Office,United States - San Jose,Connecticut,51714,South
+CUST-219,Rachel Jackson,Home Office,United States - Jacksonville,Mississippi,56309,West
+CUST-220,Stephanie Smith,Consumer,United States - San Antonio,West Virginia,86260,North
+CUST-221,Andrew Villarreal,Home Office,United States - Seattle,Alabama,56005,Central
+CUST-222,Larry Woods,Corporate,United States - Houston,Maryland,19977,South
+CUST-223,Raymond Coffey,Corporate,United States - Chicago,New York,47730,South
+CUST-224,Garrett Powell,Corporate,United States - Houston,Wyoming,33721,East
+CUST-225,Rachel Hughes,Consumer,United States - Philadelphia,Rhode Island,60747,Central
+CUST-226,James Hunter,Consumer,United States - Austin,Alaska,73634,West
+CUST-227,Nicole Phillips,Home Office,United States - Houston,Missouri,23715,West
+CUST-228,Paul Howard,Home Office,United States - Austin,Indiana,78596,Central
+CUST-229,Amber Gentry,Home Office,United States - San Antonio,Kansas,70139,East
+CUST-230,Tyler Castillo,Home Office,United States - Fort Worth,Arkansas,1571,East
+CUST-231,Roy Blackwell,Consumer,United States - San Antonio,Nebraska,15650,Central
+CUST-232,Zachary Manning,Corporate,United States - San Francisco,New Hampshire,26515,West
+CUST-233,Angel Reed,Corporate,United States - San Jose,Florida,89693,North
+CUST-234,Angela Garcia,Home Office,United States - Houston,Ohio,57121,South
+CUST-235,Renee Meadows,Home Office,United States - Dallas,Oklahoma,97300,East
+CUST-236,Mrs. Jennifer Smith DDS,Home Office,United States - Washington,Kentucky,71228,North
+CUST-237,Elizabeth Moore,Home Office,United States - Austin,North Carolina,65512,Central
+CUST-238,Brian Lutz,Corporate,United States - Columbus,Massachusetts,73723,Central
+CUST-239,Briana Williamson,Consumer,United States - Indianapolis,Vermont,74305,East
+CUST-240,Kristina Hebert,Home Office,United States - Denver,Oklahoma,62899,Central
+CUST-241,Jimmy Chung,Consumer,United States - San Diego,Washington,14536,East
+CUST-242,Caleb Alvarez,Corporate,United States - Phoenix,Colorado,92579,Central
+CUST-243,Howard Grant,Consumer,United States - Washington,South Carolina,10195,South
+CUST-244,Ms. Karen Pruitt MD,Corporate,United States - Austin,Illinois,88566,North
+CUST-245,Christian Jefferson,Consumer,United States - San Diego,Illinois,35833,East
+CUST-246,Cynthia Hall,Corporate,United States - Washington,Iowa,7481,Central
+CUST-247,Gary Ray,Home Office,United States - Houston,Washington,8946,West
+CUST-248,Stephanie Kline,Corporate,United States - Indianapolis,Nevada,51693,West
+CUST-249,William Strong,Home Office,United States - Columbus,Georgia,96267,North
+CUST-250,Mikayla Martin,Corporate,United States - Fort Worth,West Virginia,83296,North
+CUST-251,Rebecca Smith,Consumer,United States - San Jose,Connecticut,62674,Central
+CUST-252,Heather Underwood,Corporate,United States - Philadelphia,North Dakota,9085,West
+CUST-253,Dr. Mark Palmer,Home Office,United States - San Jose,Alabama,42084,East
+CUST-254,Nancy Fuller,Consumer,United States - Charlotte,Arizona,94337,Central
+CUST-255,Edwin Simon,Consumer,United States - Seattle,Iowa,35074,South
+CUST-256,Shannon Ramsey,Home Office,United States - Washington,New Hampshire,87109,West
+CUST-257,Jenna Sosa,Corporate,United States - Jacksonville,Delaware,56002,East
+CUST-258,Joseph Blake,Corporate,United States - Philadelphia,Iowa,7589,West
+CUST-259,Wesley Malone,Home Office,United States - Philadelphia,Arizona,33603,North
+CUST-260,Bradley Burgess Jr.,Corporate,United States - San Jose,Indiana,46246,East
+CUST-261,Emily Lynch,Corporate,United States - Washington,Nebraska,61599,East
+CUST-262,Amber Hernandez,Consumer,United States - Washington,Connecticut,45585,South
+CUST-263,Aaron Spears,Home Office,United States - Houston,Iowa,26893,South
+CUST-264,Christopher Ramirez,Home Office,United States - Dallas,Idaho,14952,North
+CUST-265,Molly Clements,Consumer,United States - Seattle,Vermont,28455,North
+CUST-266,Mr. Walter Winters,Home Office,United States - San Jose,Missouri,63238,North
+CUST-267,Deborah Lyons,Consumer,United States - Denver,Connecticut,32476,South
+CUST-268,Suzanne Richmond,Corporate,United States - San Jose,Virginia,54317,East
+CUST-269,Sara Marquez,Home Office,United States - New York,Missouri,12881,North
+CUST-270,Felicia Miranda,Consumer,United States - Washington,Illinois,50933,West
+CUST-271,Angela Weber,Home Office,United States - New York,Idaho,77344,West
+CUST-272,Nicole Zamora,Home Office,United States - Philadelphia,Wisconsin,80379,West
+CUST-273,Donald Bailey,Consumer,United States - San Diego,Georgia,60240,South
+CUST-274,Rhonda Newman,Home Office,United States - San Jose,Ohio,27567,Central
+CUST-275,Lawrence Clark,Home Office,United States - Philadelphia,Michigan,57190,North
+CUST-276,Jessica Martinez,Home Office,United States - Jacksonville,Hawaii,79085,Central
+CUST-277,Eric Pierce,Consumer,United States - Chicago,North Dakota,90609,Central
+CUST-278,Nicole Oneal,Consumer,United States - Austin,Ohio,96848,West
+CUST-279,John Erickson,Home Office,United States - Seattle,Maine,3717,North
+CUST-280,Julia Barton,Consumer,United States - San Jose,Utah,35535,Central
+CUST-281,Carlos Smith,Corporate,United States - Los Angeles,Mississippi,6697,North
+CUST-282,Jessica Hardy,Consumer,United States - Phoenix,West Virginia,58375,West
+CUST-283,Veronica Chambers,Consumer,United States - San Diego,Pennsylvania,39544,East
+CUST-284,Larry Cannon,Consumer,United States - Jacksonville,Delaware,34675,North
+CUST-285,Megan Solis,Home Office,United States - Austin,Kentucky,64762,North
+CUST-286,Matthew Ramirez,Corporate,United States - Philadelphia,Wyoming,22269,South
+CUST-287,Tony Smith,Corporate,United States - Chicago,Mississippi,60459,North
+CUST-288,Terry Martinez,Consumer,United States - Washington,Montana,4339,Central
+CUST-289,Edward Khan,Corporate,United States - Phoenix,Kansas,94334,West
+CUST-290,Carol Fitzgerald PhD,Home Office,United States - Dallas,Arizona,12227,Central
+CUST-291,Connor Delgado,Consumer,United States - Denver,Delaware,72944,South
+CUST-292,Gregory Davis,Home Office,United States - San Francisco,Missouri,69810,East
+CUST-293,Deborah Fletcher,Corporate,United States - Chicago,Mississippi,30292,North
+CUST-294,Billy Jones,Home Office,United States - Indianapolis,Kentucky,67037,North
+CUST-295,Kenneth Hall,Consumer,United States - San Diego,Oregon,84802,South
+CUST-296,Peter Wilson,Corporate,United States - Jacksonville,Wyoming,88199,North
+CUST-297,Deborah Williams,Home Office,United States - Los Angeles,North Carolina,63723,East
+CUST-298,Jonathan Delacruz,Home Office,United States - Jacksonville,North Carolina,44444,East
+CUST-299,Christy Larson,Consumer,United States - Houston,Iowa,46684,Central
+CUST-300,Greg Wilson,Consumer,United States - Houston,Virginia,44570,East
+CUST-301,Brian Scott,Consumer,United States - Charlotte,North Dakota,92118,North
+CUST-302,Kari Jones,Consumer,United States - Columbus,Nebraska,11449,West
+CUST-303,Sean Reed,Home Office,United States - San Jose,New Jersey,39016,Central
+CUST-304,Michael Riley,Corporate,United States - Fort Worth,West Virginia,36831,West
+CUST-305,Sarah White,Home Office,United States - San Antonio,South Carolina,63851,South
+CUST-306,Ryan Snyder,Home Office,United States - Charlotte,Nevada,77445,Central
+CUST-307,Yvonne Franco,Consumer,United States - Philadelphia,Hawaii,34810,South
+CUST-308,Erin Hill,Consumer,United States - Los Angeles,Kentucky,60471,West
+CUST-309,William Mccann,Home Office,United States - Seattle,Florida,55105,East
+CUST-310,Stephanie Roberson,Home Office,United States - Columbus,California,89903,South
+CUST-311,Zachary Wright,Home Office,United States - Austin,Hawaii,58567,West
+CUST-312,David Goodman,Home Office,United States - Washington,Minnesota,50749,South
+CUST-313,Heather Fuller,Corporate,United States - Denver,Mississippi,18604,North
+CUST-314,Jonathan Wilson,Consumer,United States - San Diego,Louisiana,6914,East
+CUST-315,Jessica Barnett,Home Office,United States - Jacksonville,Alaska,76415,South
+CUST-316,Michael Taylor,Consumer,United States - Chicago,Connecticut,52347,North
+CUST-317,Christine Smith,Consumer,United States - San Antonio,Mississippi,2244,East
+CUST-318,Renee Singh,Home Office,United States - New York,Rhode Island,12936,North
+CUST-319,Kenneth Anderson,Corporate,United States - Washington,Hawaii,89261,West
+CUST-320,Kimberly Smith,Consumer,United States - Charlotte,Pennsylvania,2446,South
+CUST-321,Erin Hartman,Corporate,United States - Jacksonville,Arkansas,33785,South
+CUST-322,Sherry Peterson,Corporate,United States - Seattle,Minnesota,81527,South
+CUST-323,Carol Zuniga,Consumer,United States - Denver,Tennessee,41245,North
+CUST-324,Chelsea Lewis,Corporate,United States - San Antonio,Michigan,55902,North
+CUST-325,Madison Flynn,Corporate,United States - Austin,New York,30846,East
+CUST-326,Brandon Johns,Consumer,United States - New York,Minnesota,21301,East
+CUST-327,Thomas Tucker,Consumer,United States - Fort Worth,West Virginia,42027,East
+CUST-328,Kim Morgan,Home Office,United States - Seattle,New Mexico,98958,South
+CUST-329,Todd David,Consumer,United States - San Diego,North Dakota,34286,West
+CUST-330,Julia Gordon,Home Office,United States - San Antonio,Texas,17708,South
+CUST-331,Katherine Jackson,Home Office,United States - Jacksonville,New Mexico,41498,North
+CUST-332,Jessica Calhoun,Consumer,United States - San Antonio,South Carolina,22349,North
+CUST-333,Mary Miller,Corporate,United States - Fort Worth,New York,7113,North
+CUST-334,David Torres,Consumer,United States - Seattle,Nebraska,79160,Central
+CUST-335,Christopher Willis,Consumer,United States - Columbus,South Carolina,37708,West
+CUST-336,Denise Spears,Corporate,United States - Chicago,New Jersey,25697,South
+CUST-337,Steven Lambert,Home Office,United States - Seattle,Wisconsin,35672,East
+CUST-338,Matthew Woods,Home Office,United States - Phoenix,Georgia,93488,Central
+CUST-339,Jamie Ray,Corporate,United States - New York,West Virginia,7644,Central
+CUST-340,Dylan Gilbert,Corporate,United States - Houston,Minnesota,6956,South
+CUST-341,Douglas Wong Jr.,Corporate,United States - San Diego,New Hampshire,18767,North
+CUST-342,Amy Gonzalez,Corporate,United States - San Antonio,Idaho,56304,South
+CUST-343,Morgan Williams,Home Office,United States - San Francisco,Oklahoma,9939,West
+CUST-344,Marissa Munoz,Corporate,United States - Indianapolis,Michigan,43678,East
+CUST-345,Lawrence Murphy,Consumer,United States - Washington,Indiana,92484,North
+CUST-346,Tammy Cameron,Corporate,United States - Chicago,North Carolina,10685,East
+CUST-347,Wesley Coleman,Home Office,United States - Denver,Michigan,66829,South
+CUST-348,Michael Garcia,Corporate,United States - New York,Ohio,32720,Central
+CUST-349,William Harrison,Home Office,United States - Columbus,Connecticut,39855,East
+CUST-350,Megan Lee,Home Office,United States - Houston,Vermont,39864,Central
+CUST-351,Natalie Bryant,Home Office,United States - Jacksonville,Idaho,34342,West
+CUST-352,Jamie Howard,Consumer,United States - Los Angeles,Vermont,69213,East
+CUST-353,Rachel Gray,Consumer,United States - San Antonio,New Mexico,38471,Central
+CUST-354,Brenda Garcia,Corporate,United States - San Jose,Georgia,69419,West
+CUST-355,Judy Miller,Home Office,United States - Jacksonville,New Hampshire,55145,East
+CUST-356,Ryan Barrera,Consumer,United States - New York,Massachusetts,11400,East
+CUST-357,Brian Smith,Consumer,United States - Los Angeles,Michigan,92034,North
+CUST-358,Jason Kelly,Consumer,United States - Austin,Oregon,41240,North
+CUST-359,Tammy Davis,Corporate,United States - San Antonio,Illinois,3782,North
+CUST-360,Ian Garcia,Home Office,United States - Los Angeles,Hawaii,6728,South
+CUST-361,Patrick Andrews,Corporate,United States - San Diego,Kentucky,79722,Central
+CUST-362,Ronald Knight,Corporate,United States - Houston,Missouri,43495,South
+CUST-363,Gabrielle Cox,Home Office,United States - Dallas,Texas,85841,West
+CUST-364,William Smith,Corporate,United States - Indianapolis,Idaho,1069,East
+CUST-365,Kurt Murray,Home Office,United States - Charlotte,Nebraska,54706,Central
+CUST-366,Carlos Smith,Corporate,United States - Denver,North Dakota,50076,South
+CUST-367,Mr. Matthew Holloway,Home Office,United States - Dallas,Delaware,95352,East
+CUST-368,Alexander Gonzalez,Home Office,United States - San Antonio,Nebraska,28661,East
+CUST-369,Brian Holmes,Consumer,United States - San Diego,Florida,2323,East
+CUST-370,Amy Torres,Consumer,United States - Phoenix,Colorado,92758,South
+CUST-371,Nancy Willis,Corporate,United States - Denver,Oregon,51601,Central
+CUST-372,Amber Delgado,Home Office,United States - Houston,Mississippi,83910,West
+CUST-373,Danielle Davis,Corporate,United States - Washington,Florida,94351,Central
+CUST-374,Ana Sims,Consumer,United States - Washington,Nevada,1014,North
+CUST-375,Diane Johnson MD,Corporate,United States - Denver,Georgia,37663,West
+CUST-376,Jennifer Ramsey,Home Office,United States - San Antonio,Delaware,96241,North
+CUST-377,Jack Leonard,Home Office,United States - Fort Worth,New Jersey,1915,North
+CUST-378,Lisa Jackson,Home Office,United States - San Diego,Nevada,66519,South
+CUST-379,Jessica Carroll,Corporate,United States - Phoenix,Michigan,53508,North
+CUST-380,Tanya Mclaughlin,Consumer,United States - Columbus,Florida,19179,Central
+CUST-381,Tonya Gentry,Consumer,United States - San Diego,Georgia,68148,South
+CUST-382,Scott Vincent,Corporate,United States - Houston,New Jersey,80048,East
+CUST-383,James Bird,Corporate,United States - Washington,Utah,49814,South
+CUST-384,Chelsea Graham,Consumer,United States - San Antonio,Vermont,22340,Central
+CUST-385,Megan Allen,Home Office,United States - Phoenix,Indiana,71251,Central
+CUST-386,Kathleen Craig,Home Office,United States - Columbus,Nebraska,27870,East
+CUST-387,Dr. Kristin Gonzales DDS,Consumer,United States - Chicago,Indiana,31336,East
+CUST-388,Jo Ramirez,Consumer,United States - San Antonio,Maryland,86600,West
+CUST-389,Amy Lopez,Corporate,United States - Philadelphia,Utah,69513,Central
+CUST-390,Jose Romero,Consumer,United States - New York,New Hampshire,92139,South
+CUST-391,Sophia Rivera,Corporate,United States - Denver,New Mexico,90297,South
+CUST-392,Joseph Anderson,Corporate,United States - San Francisco,South Dakota,69261,North
+CUST-393,Caitlin Long,Corporate,United States - Denver,Texas,59315,South
+CUST-394,Jessica Stewart,Home Office,United States - Fort Worth,Kansas,56598,West
+CUST-395,Daniel Martinez,Home Office,United States - Jacksonville,Texas,10616,West
+CUST-396,Bryan Simmons,Consumer,United States - San Diego,New Jersey,14148,West
+CUST-397,Susan Reed,Corporate,United States - Los Angeles,Nevada,52853,North
+CUST-398,Joseph Krause,Consumer,United States - Houston,South Carolina,60313,North
+CUST-399,Scott King,Corporate,United States - Austin,Kentucky,57292,West
+CUST-400,Oscar Erickson,Home Office,United States - San Francisco,Maryland,93101,Central
+CUST-401,Tabitha Hopkins,Home Office,United States - San Francisco,Florida,5934,South
+CUST-402,Kelly Hart,Home Office,United States - Columbus,Texas,77606,South
+CUST-403,Paul Howe,Consumer,United States - Houston,Wyoming,42981,West
+CUST-404,Kyle Bass,Corporate,United States - Washington,Virginia,97284,West
+CUST-405,Terri Stewart,Home Office,United States - Austin,Maine,14198,North
+CUST-406,Ashley Stephens,Home Office,United States - Philadelphia,Tennessee,70822,East
+CUST-407,Aaron Brown,Consumer,United States - San Diego,West Virginia,59434,North
+CUST-408,Miss Rachel Alvarado,Corporate,United States - Washington,Iowa,68948,East
+CUST-409,Patricia Mcgee,Home Office,United States - Columbus,Tennessee,70023,South
+CUST-410,Brian Baker,Home Office,United States - Washington,Oregon,68237,West
+CUST-411,Steven Gomez,Home Office,United States - Philadelphia,Delaware,90605,South
+CUST-412,Katherine Mitchell,Corporate,United States - Phoenix,New Mexico,65833,North
+CUST-413,Mary Cruz,Home Office,United States - Washington,South Carolina,35114,East
+CUST-414,Christopher Payne,Consumer,United States - San Antonio,Michigan,97316,East
+CUST-415,Mark Johnson,Consumer,United States - San Antonio,New Mexico,59017,East
+CUST-416,Kyle Campbell,Home Office,United States - Washington,New York,47771,West
+CUST-417,Kevin Aguilar,Corporate,United States - New York,Arkansas,80196,North
+CUST-418,Dennis Foster,Corporate,United States - Columbus,Vermont,57256,West
+CUST-419,Denise Wood,Consumer,United States - Los Angeles,California,46515,North
+CUST-420,Ryan Perez,Consumer,United States - Seattle,Oklahoma,76268,North
+CUST-421,Christina Mckay,Consumer,United States - Washington,Arizona,20872,East
+CUST-422,Jason Guzman,Consumer,United States - Denver,Florida,41267,East
+CUST-423,Jeffrey Williams,Corporate,United States - San Francisco,Utah,74180,West
+CUST-424,Jason Alexander,Home Office,United States - Phoenix,North Dakota,13836,North
+CUST-425,Ashley Wong,Corporate,United States - Chicago,Wisconsin,54477,North
+CUST-426,Samuel Randall,Home Office,United States - Indianapolis,Illinois,41449,East
+CUST-427,Pamela Barnett,Home Office,United States - Houston,Rhode Island,57064,East
+CUST-428,David Dennis,Consumer,United States - Denver,Connecticut,78768,North
+CUST-429,Kyle Martinez,Home Office,United States - Dallas,Texas,52342,South
+CUST-430,Amy Brooks,Consumer,United States - Seattle,Tennessee,16750,East
+CUST-431,Bradley Joseph,Corporate,United States - Fort Worth,Wisconsin,83609,West
+CUST-432,Rachel Cowan,Consumer,United States - Indianapolis,Idaho,52616,North
+CUST-433,Tracy Guzman,Home Office,United States - Indianapolis,Arizona,34726,South
+CUST-434,Kelly Bradford,Corporate,United States - Houston,Maine,71027,North
+CUST-435,Tracy Mendoza,Home Office,United States - Jacksonville,Arizona,18007,North
+CUST-436,George Sanders,Home Office,United States - San Diego,Delaware,2639,West
+CUST-437,Mary Barrera,Consumer,United States - San Jose,Arkansas,24965,Central
+CUST-438,Cassandra Stanley,Consumer,United States - Seattle,Arkansas,3409,West
+CUST-439,Chad Rhodes,Consumer,United States - Indianapolis,Georgia,43189,Central
+CUST-440,Jeremy Ellis,Consumer,United States - Phoenix,Oregon,96778,East
+CUST-441,Mr. Tyler Allen,Consumer,United States - Austin,Missouri,75191,South
+CUST-442,Heather Wiley,Home Office,United States - Washington,California,13316,East
+CUST-443,Lori Waller,Corporate,United States - Charlotte,Arkansas,35138,West
+CUST-444,Sarah Wilson,Corporate,United States - Dallas,California,67833,South
+CUST-445,Gary Armstrong,Consumer,United States - Denver,Texas,10588,South
+CUST-446,Joy Mills,Home Office,United States - Fort Worth,Maryland,95670,North
+CUST-447,Nicole Valdez,Corporate,United States - Columbus,Alabama,61663,East
+CUST-448,James Wiley,Corporate,United States - Dallas,New Jersey,84955,West
+CUST-449,Sarah Kim,Corporate,United States - Philadelphia,Kentucky,41363,East
+CUST-450,Jeffrey Gomez,Consumer,United States - Houston,New Mexico,87048,West
+CUST-451,Zachary Johnston,Home Office,United States - Washington,Michigan,46683,Central
+CUST-452,Kevin Williams,Home Office,United States - Denver,South Carolina,26405,Central
+CUST-453,Jaime Gonzalez,Home Office,United States - Washington,New York,74222,Central
+CUST-454,Alexandria Lewis,Consumer,United States - Phoenix,South Dakota,71652,North
+CUST-455,Steven Davidson,Home Office,United States - Philadelphia,Rhode Island,51832,North
+CUST-456,James Holder,Home Office,United States - San Diego,Indiana,81310,Central
+CUST-457,Mitchell Payne,Home Office,United States - Philadelphia,Florida,19497,Central
+CUST-458,Michael Adkins,Corporate,United States - Los Angeles,Pennsylvania,5899,West
+CUST-459,Luke Porter,Consumer,United States - Fort Worth,South Dakota,81260,East
+CUST-460,Denise Little,Consumer,United States - Houston,Oregon,4297,North
+CUST-461,Benjamin Henson,Corporate,United States - San Jose,Alabama,42204,East
+CUST-462,Amanda Davis,Consumer,United States - Phoenix,North Dakota,20405,East
+CUST-463,Jaime Phillips,Corporate,United States - Houston,Georgia,65026,West
+CUST-464,Savannah Vance,Corporate,United States - Denver,Delaware,39486,West
+CUST-465,Darryl White,Consumer,United States - San Diego,Massachusetts,95529,North
+CUST-466,Joseph Mcfarland,Corporate,United States - San Francisco,Kansas,38409,North
+CUST-467,James Davis,Corporate,United States - Philadelphia,Pennsylvania,20971,East
+CUST-468,Sean Jones,Consumer,United States - Seattle,Virginia,73473,West
+CUST-469,Lisa Gibson,Home Office,United States - San Jose,Washington,44421,West
+CUST-470,Stacy Elliott,Corporate,United States - San Antonio,North Carolina,40916,North
+CUST-471,Kyle Anderson,Home Office,United States - Fort Worth,Utah,67920,East
+CUST-472,Amy Combs,Consumer,United States - Phoenix,Alaska,63018,West
+CUST-473,Karen Marsh,Consumer,United States - San Diego,New Hampshire,66962,East
+CUST-474,Allison Watts,Home Office,United States - San Diego,Virginia,65190,South
+CUST-475,Vickie Brown,Home Office,United States - New York,Oklahoma,89407,South
+CUST-476,Scott Morris,Consumer,United States - Seattle,California,81874,West
+CUST-477,Cody Mcdonald,Corporate,United States - Columbus,Georgia,72564,Central
+CUST-478,Jeffrey King,Corporate,United States - San Diego,Montana,81450,Central
+CUST-479,Robert Price,Consumer,United States - Phoenix,Alaska,1648,East
+CUST-480,Tricia Rodriguez,Consumer,United States - Phoenix,Nebraska,52031,North
+CUST-481,Krista Duran,Consumer,United States - San Jose,Hawaii,70769,East
+CUST-482,Briana Cunningham,Consumer,United States - Chicago,Louisiana,11369,West
+CUST-483,Richard Navarro,Home Office,United States - San Diego,Kansas,99563,West
+CUST-484,Michelle Watts,Consumer,United States - Charlotte,Missouri,44153,West
+CUST-485,Angelica Garcia,Consumer,United States - Chicago,Illinois,84311,South
+CUST-486,Jeremy Mitchell,Corporate,United States - San Francisco,Georgia,91988,West
+CUST-487,Hunter Choi,Corporate,United States - Los Angeles,Oregon,54483,Central
+CUST-488,Lindsay Silva,Home Office,United States - Dallas,Connecticut,15413,North
+CUST-489,William Walters,Corporate,United States - San Jose,South Dakota,8927,Central
+CUST-490,Alyssa Simpson,Consumer,United States - San Francisco,Maryland,53700,East
+CUST-491,Nicole Lawson,Consumer,United States - Indianapolis,Nebraska,69137,West
+CUST-492,Kristopher Nelson,Corporate,United States - San Diego,Illinois,25521,East
+CUST-493,Aaron George,Consumer,United States - San Antonio,Oklahoma,61610,South
+CUST-494,Donna Smith,Home Office,United States - Chicago,Tennessee,52400,South
+CUST-495,Matthew Swanson,Consumer,United States - San Francisco,Nebraska,74830,Central
+CUST-496,Crystal Sweeney,Corporate,United States - Fort Worth,Connecticut,56121,Central
+CUST-497,Kathleen Mccullough,Consumer,United States - Los Angeles,Michigan,38674,North
+CUST-498,Samantha Smith,Home Office,United States - San Diego,Maine,74338,Central
+CUST-499,Rebecca Freeman MD,Home Office,United States - Columbus,New Jersey,33655,South
+CUST-500,Jody Clark,Home Office,United States - Charlotte,Utah,2336,Central
+CUST-501,Tyler Mills,Consumer,United States - Philadelphia,Pennsylvania,98989,South
+CUST-502,Jenny Banks MD,Home Office,United States - Phoenix,Mississippi,78279,Central
+CUST-503,Elizabeth Brown,Corporate,United States - Indianapolis,Washington,15903,East
+CUST-504,Steven Anderson,Consumer,United States - San Antonio,Oregon,41524,Central
+CUST-505,Michael Golden,Corporate,United States - Charlotte,Rhode Island,75827,North
+CUST-506,Christine Sanchez,Consumer,United States - Chicago,Hawaii,9163,South
+CUST-507,Hannah Garza,Consumer,United States - Denver,Minnesota,13707,North
+CUST-508,Kathryn Castro,Corporate,United States - San Diego,Michigan,25939,South
+CUST-509,Gloria Mitchell,Corporate,United States - Los Angeles,West Virginia,55159,North
+CUST-510,David Gregory,Home Office,United States - San Antonio,Washington,44292,Central
+CUST-511,Jeffrey Cordova,Corporate,United States - Washington,Utah,28240,North
+CUST-512,Brittney Stewart,Consumer,United States - Philadelphia,Illinois,21947,East
+CUST-513,Ivan Martinez,Corporate,United States - Columbus,Alabama,1269,North
+CUST-514,Rebecca Anderson,Corporate,United States - Columbus,Virginia,5970,East
+CUST-515,Rachel Cruz,Home Office,United States - New York,Vermont,24577,East
+CUST-516,Amy Weber,Home Office,United States - New York,New Jersey,36312,North
+CUST-517,Andrew Mcgee,Home Office,United States - Denver,Alaska,75030,West
+CUST-518,Aaron Jackson,Corporate,United States - Los Angeles,New Jersey,64569,North
+CUST-519,Nichole Andrews,Corporate,United States - Phoenix,Florida,69436,East
+CUST-520,Christine Martinez,Consumer,United States - Dallas,South Carolina,27397,East
+CUST-521,Joseph Robinson,Consumer,United States - Houston,Alaska,20781,North
+CUST-522,Tyrone Bond,Home Office,United States - Jacksonville,Utah,54035,West
+CUST-523,Carol Lee,Consumer,United States - San Jose,Mississippi,3661,West
+CUST-524,Jennifer Murray,Consumer,United States - Austin,Louisiana,48284,South
+CUST-525,Dawn Thompson,Home Office,United States - Jacksonville,North Carolina,52148,Central
+CUST-526,Jacqueline Arnold,Corporate,United States - Phoenix,New Mexico,98937,North
+CUST-527,Nichole Burgess,Consumer,United States - Indianapolis,Tennessee,25648,South
+CUST-528,David West,Corporate,United States - Charlotte,South Carolina,22465,Central
+CUST-529,Justin Barnes,Home Office,United States - San Antonio,South Carolina,26058,South
+CUST-530,Angela Moody,Consumer,United States - Phoenix,North Dakota,70552,East
+CUST-531,Jessica Hutchinson,Consumer,United States - San Francisco,Oklahoma,63214,East
+CUST-532,Stanley Casey,Home Office,United States - Washington,South Dakota,11897,East
+CUST-533,Rachel Parsons,Consumer,United States - San Jose,Utah,38961,East
+CUST-534,John Jackson,Corporate,United States - Charlotte,Washington,88316,Central
+CUST-535,Austin Johnson,Consumer,United States - Indianapolis,Pennsylvania,99387,West
+CUST-536,Jason Walker,Corporate,United States - Los Angeles,South Carolina,79768,North
+CUST-537,Jennifer Ward,Consumer,United States - San Antonio,North Dakota,36697,North
+CUST-538,Kenneth Miller,Consumer,United States - San Francisco,California,79986,South
+CUST-539,Stacey Velasquez,Home Office,United States - Los Angeles,Delaware,25643,Central
+CUST-540,Nancy Morrison,Home Office,United States - San Antonio,Pennsylvania,59362,West
+CUST-541,Debra Barnes DDS,Corporate,United States - Seattle,Kansas,25785,East
+CUST-542,Christina Richardson,Consumer,United States - Houston,Louisiana,60253,North
+CUST-543,Brian Holloway,Home Office,United States - Fort Worth,Wisconsin,30441,South
+CUST-544,Tina Ramirez,Corporate,United States - Fort Worth,Nebraska,93559,North
+CUST-545,Zachary Williams,Home Office,United States - Washington,North Carolina,94613,South
+CUST-546,Johnny Nelson,Consumer,United States - Phoenix,Alaska,52783,West
+CUST-547,Susan Davis,Home Office,United States - Seattle,Wyoming,85751,North
+CUST-548,Christopher Nelson,Corporate,United States - Denver,North Dakota,92103,North
+CUST-549,Renee Pratt,Corporate,United States - Denver,Missouri,65379,North
+CUST-550,Tony Reyes,Consumer,United States - Dallas,Wisconsin,71523,Central
+CUST-551,Kenneth Johnston,Consumer,United States - Columbus,Virginia,11342,West
+CUST-552,Manuel Clark,Home Office,United States - Philadelphia,Wyoming,33307,Central
+CUST-553,Mrs. Victoria Morris,Home Office,United States - Seattle,Kentucky,37163,Central
+CUST-554,Tanya Adkins,Consumer,United States - Washington,South Carolina,98488,South
+CUST-555,James Rodriguez,Corporate,United States - Charlotte,California,27175,North
+CUST-556,Jordan Jacobs,Home Office,United States - Washington,Delaware,91539,Central
+CUST-557,Cory Wilson,Consumer,United States - New York,Wyoming,57473,West
+CUST-558,Susan Taylor,Home Office,United States - San Jose,New Jersey,98932,Central
+CUST-559,Joshua Smith,Corporate,United States - Seattle,Virginia,4770,East
+CUST-560,Bethany Pittman,Consumer,United States - Charlotte,Minnesota,25385,North
+CUST-561,Meagan Wolfe,Consumer,United States - San Diego,Colorado,27598,South
+CUST-562,Amy Rivera,Corporate,United States - Denver,South Dakota,45388,South
+CUST-563,Lindsey Smith,Consumer,United States - Seattle,Idaho,34758,Central
+CUST-564,Matthew Newman DDS,Corporate,United States - Dallas,New Jersey,1314,East
+CUST-565,Sandra Owens,Corporate,United States - Chicago,Nevada,23374,West
+CUST-566,Jerry Thompson,Home Office,United States - San Francisco,Tennessee,47044,South
+CUST-567,William Sheppard,Home Office,United States - Philadelphia,Kansas,89109,North
+CUST-568,Micheal Sanchez,Corporate,United States - Los Angeles,Kansas,54523,Central
+CUST-569,Joseph Lynch,Corporate,United States - Houston,Virginia,70767,Central
+CUST-570,James Adams,Corporate,United States - San Antonio,Montana,61238,East
+CUST-571,Sarah Jones,Consumer,United States - Charlotte,Montana,12098,North
+CUST-572,Mr. William Wolfe,Corporate,United States - Phoenix,Arizona,97194,East
+CUST-573,David Klein,Consumer,United States - New York,Delaware,85365,South
+CUST-574,John Morales,Consumer,United States - Los Angeles,Maryland,35524,North
+CUST-575,Jeremy Washington,Home Office,United States - Philadelphia,California,587,North
+CUST-576,Lisa Martinez,Consumer,United States - Philadelphia,Vermont,6624,South
+CUST-577,Brian Andrews MD,Consumer,United States - Houston,Texas,14525,South
+CUST-578,Tammy Miller,Corporate,United States - Charlotte,Virginia,4619,North
+CUST-579,Kristen Ramirez,Corporate,United States - Washington,Alaska,67929,Central
+CUST-580,Adam Garcia,Home Office,United States - Dallas,Iowa,1721,West
+CUST-581,Brooke Johnson,Corporate,United States - Denver,Oregon,51005,East
+CUST-582,Rodney Sullivan,Consumer,United States - Philadelphia,Louisiana,34786,West
+CUST-583,Jacob Smith,Corporate,United States - Dallas,Iowa,61255,West
+CUST-584,Elizabeth Meadows,Consumer,United States - Philadelphia,Maine,45306,East
+CUST-585,Jessica Sloan,Home Office,United States - Washington,Texas,82900,West
+CUST-586,Kari Perez,Consumer,United States - San Antonio,Oregon,66534,North
+CUST-587,Brandon Young,Consumer,United States - Fort Worth,Iowa,69008,East
+CUST-588,Jack Maldonado,Corporate,United States - Denver,Oregon,59917,West
+CUST-589,Christine Gibson PhD,Corporate,United States - Indianapolis,Nebraska,69757,East
+CUST-590,Shaun Lin,Consumer,United States - San Diego,Indiana,84024,Central
+CUST-591,Michelle Obrien,Corporate,United States - Fort Worth,Florida,61999,Central
+CUST-592,Teresa White,Consumer,United States - Charlotte,Maine,73105,West
+CUST-593,Anthony Santos Jr.,Home Office,United States - Houston,Iowa,26077,East
+CUST-594,Patricia Stevenson,Home Office,United States - Columbus,Rhode Island,34300,East
+CUST-595,Joshua Alvarado,Home Office,United States - Houston,Utah,90079,East
+CUST-596,Sandra Carlson,Home Office,United States - Denver,California,33093,South
+CUST-597,Robert Stevens,Corporate,United States - Chicago,Idaho,78743,Central
+CUST-598,Katherine Lopez,Corporate,United States - Seattle,North Dakota,9987,East
+CUST-599,Jennifer Wright,Home Office,United States - Chicago,West Virginia,91321,East
+CUST-600,Michael West,Consumer,United States - Charlotte,Michigan,12945,Central
+CUST-601,Leah Mendoza,Home Office,United States - Philadelphia,New Jersey,56329,Central
+CUST-602,David Lloyd,Consumer,United States - Chicago,Maine,62972,South
+CUST-603,Chad Turner,Home Office,United States - San Francisco,Pennsylvania,57358,South
+CUST-604,Rachel Ruiz,Home Office,United States - San Antonio,Florida,28335,West
+CUST-605,Heather Johnson,Consumer,United States - Charlotte,Virginia,35045,Central
+CUST-606,Erica Robinson,Home Office,United States - San Jose,Pennsylvania,63431,North
+CUST-607,Taylor Brown,Consumer,United States - Houston,Iowa,30330,East
+CUST-608,Shannon Arnold,Consumer,United States - Dallas,South Carolina,77785,West
+CUST-609,Dawn Phillips,Corporate,United States - Dallas,Wisconsin,57253,South
+CUST-610,Rebecca Reid,Consumer,United States - Chicago,Virginia,91337,West
+CUST-611,Lisa Cisneros,Consumer,United States - Philadelphia,Rhode Island,62284,East
+CUST-612,Erik Simmons,Corporate,United States - New York,Connecticut,35491,North
+CUST-613,Gina Ashley,Consumer,United States - Houston,Georgia,16368,East
+CUST-614,Ashley Phillips,Corporate,United States - Chicago,Michigan,53305,West
+CUST-615,Samuel Mills,Corporate,United States - Phoenix,Georgia,44629,East
+CUST-616,Aaron Williams,Corporate,United States - Washington,North Dakota,29438,North
+CUST-617,Harold White,Corporate,United States - Phoenix,Mississippi,96578,North
+CUST-618,Amanda Austin,Home Office,United States - Phoenix,South Dakota,87365,North
+CUST-619,Brittany Roach,Home Office,United States - Denver,California,12752,West
+CUST-620,Timothy Payne,Consumer,United States - Houston,Delaware,27218,South
+CUST-621,Aaron Hancock,Home Office,United States - Austin,Idaho,85509,West
+CUST-622,Cassandra Clark,Corporate,United States - San Jose,Arizona,16261,Central
+CUST-623,John Miller,Corporate,United States - Fort Worth,Wyoming,6352,East
+CUST-624,Anthony Jordan,Consumer,United States - Houston,Missouri,81272,East
+CUST-625,Mark Jordan,Consumer,United States - Chicago,Utah,85593,South
+CUST-626,Yolanda Miranda,Home Office,United States - Austin,Virginia,98615,North
+CUST-627,Amanda Jones,Corporate,United States - San Antonio,Louisiana,30113,West
+CUST-628,Erika Carr,Home Office,United States - San Antonio,Texas,15459,West
+CUST-629,Olivia Gonzalez,Home Office,United States - Fort Worth,Missouri,65411,East
+CUST-630,Michael Bell,Home Office,United States - Denver,Pennsylvania,92638,West
+CUST-631,Kevin Allen,Consumer,United States - Dallas,Tennessee,77104,East
+CUST-632,Judith Mckee,Corporate,United States - New York,Arizona,59442,North
+CUST-633,Lauren Brown,Consumer,United States - Denver,Florida,80499,Central
+CUST-634,Sarah Valentine,Corporate,United States - Washington,Illinois,26533,East
+CUST-635,Jordan Lewis,Corporate,United States - Indianapolis,Rhode Island,7512,West
+CUST-636,Andrea Shaw,Home Office,United States - Los Angeles,South Dakota,88694,West
+CUST-637,Edgar Scott,Corporate,United States - Charlotte,Mississippi,74502,South
+CUST-638,Cindy Hernandez,Home Office,United States - Columbus,Rhode Island,74663,South
+CUST-639,Michael Lester,Consumer,United States - San Antonio,Virginia,6398,Central
+CUST-640,Bailey Oconnor,Corporate,United States - New York,North Dakota,86675,West
+CUST-641,Michael Lowery,Home Office,United States - Indianapolis,North Carolina,55421,East
+CUST-642,Dustin Fuentes,Consumer,United States - Washington,Oregon,7581,Central
+CUST-643,Jennifer Farrell,Consumer,United States - Chicago,Montana,60034,South
+CUST-644,John Brown,Consumer,United States - San Jose,Virginia,95810,West
+CUST-645,Austin Calhoun,Corporate,United States - Fort Worth,Ohio,88682,North
+CUST-646,Michael Roberts,Home Office,United States - Denver,Oklahoma,51584,West
+CUST-647,Beverly Williams,Corporate,United States - New York,Florida,44988,South
+CUST-648,Sandra Martinez DDS,Consumer,United States - Austin,Alaska,51125,North
+CUST-649,Brandon Johnston,Corporate,United States - Phoenix,Ohio,93832,East
+CUST-650,Michael Mitchell,Corporate,United States - Charlotte,Ohio,74839,North
+CUST-651,Jennifer Thomas,Corporate,United States - San Antonio,Pennsylvania,89201,East
+CUST-652,Charles White,Consumer,United States - Jacksonville,Iowa,56582,North
+CUST-653,Jessica Lane,Consumer,United States - San Diego,Alaska,68390,South
+CUST-654,Laurie Bradford,Home Office,United States - Philadelphia,Pennsylvania,16886,East
+CUST-655,Jack Smith,Consumer,United States - San Diego,Virginia,43246,South
+CUST-656,Stanley Dillon,Consumer,United States - Jacksonville,Idaho,80422,North
+CUST-657,David Huff,Corporate,United States - San Francisco,Florida,51270,West
+CUST-658,Kevin Chang,Corporate,United States - Washington,Georgia,38745,West
+CUST-659,Theresa Stewart,Consumer,United States - Fort Worth,Montana,79302,West
+CUST-660,Timothy Jacobs,Corporate,United States - Jacksonville,Connecticut,6194,Central
+CUST-661,Alan Stephens,Home Office,United States - Austin,Georgia,56996,North
+CUST-662,Taylor Williams,Consumer,United States - San Antonio,Massachusetts,28105,Central
+CUST-663,Elizabeth Miller,Home Office,United States - Fort Worth,Colorado,35479,North
+CUST-664,Christian Wilson,Home Office,United States - Fort Worth,South Dakota,93801,Central
+CUST-665,Alexis Tran,Corporate,United States - Jacksonville,Alaska,47229,East
+CUST-666,Jonathan Garrett,Consumer,United States - San Francisco,New Mexico,99842,West
+CUST-667,Ashley Thornton,Consumer,United States - Fort Worth,California,42646,North
+CUST-668,Angela Davies,Home Office,United States - San Diego,New York,19254,Central
+CUST-669,Peter Owen,Corporate,United States - Phoenix,Maryland,24264,Central
+CUST-670,Timothy Estes,Home Office,United States - San Jose,Connecticut,71796,West
+CUST-671,Joann Montoya,Home Office,United States - Philadelphia,Georgia,773,East
+CUST-672,Randy Peterson,Home Office,United States - Dallas,Ohio,54787,South
+CUST-673,April Kline,Consumer,United States - Jacksonville,Missouri,88019,North
+CUST-674,Mary Jefferson,Consumer,United States - Indianapolis,New York,95073,West
+CUST-675,Wanda Moore,Home Office,United States - Phoenix,North Carolina,49784,Central
+CUST-676,Michelle Gilbert,Corporate,United States - Seattle,Oregon,11465,Central
+CUST-677,Kelli Greer,Home Office,United States - San Jose,Nevada,53186,Central
+CUST-678,Susan Stanton,Home Office,United States - Indianapolis,New York,83135,South
+CUST-679,James Brown,Corporate,United States - Jacksonville,Idaho,79444,Central
+CUST-680,Dalton Ross,Corporate,United States - Washington,Illinois,67933,South
+CUST-681,Jessica Snyder,Corporate,United States - San Francisco,Wyoming,81808,West
+CUST-682,Samantha Collins,Home Office,United States - Philadelphia,Colorado,27769,South
+CUST-683,Eric Mcknight,Consumer,United States - Phoenix,Connecticut,60893,East
+CUST-684,Ronald Moore,Home Office,United States - San Diego,Washington,88287,South
+CUST-685,Francisco Jones,Consumer,United States - Denver,Indiana,7397,Central
+CUST-686,Jenny Donovan,Home Office,United States - San Antonio,Indiana,8215,Central
+CUST-687,Jesus Bryan,Consumer,United States - Los Angeles,Iowa,59901,East
+CUST-688,Mario Leonard,Consumer,United States - Fort Worth,Georgia,60373,East
+CUST-689,Edwin Moore,Consumer,United States - Jacksonville,Nevada,75355,Central
+CUST-690,Susan Williams,Consumer,United States - Dallas,West Virginia,91766,Central
+CUST-691,Anne Macdonald,Home Office,United States - Phoenix,Arizona,86580,West
+CUST-692,Jessica Nelson,Corporate,United States - Houston,Oregon,43921,West
+CUST-693,Sarah Bennett,Consumer,United States - Columbus,Colorado,84503,South
+CUST-694,Scott Morris,Corporate,United States - Philadelphia,Florida,77626,South
+CUST-695,Christopher Stevens,Consumer,United States - Seattle,Indiana,43318,North
+CUST-696,Richard Reid,Corporate,United States - Charlotte,Colorado,29098,Central
+CUST-697,Peter Johnson,Corporate,United States - Phoenix,Maine,53593,North
+CUST-698,Gregory Davis,Corporate,United States - Indianapolis,Minnesota,41414,Central
+CUST-699,Stephanie Dougherty,Home Office,United States - San Diego,Wisconsin,65753,East
+CUST-700,Jeremy Robinson,Consumer,United States - Seattle,South Dakota,25474,East
+CUST-701,Travis Gaines,Consumer,United States - Washington,Alaska,71642,Central
+CUST-702,Cassandra Nguyen,Home Office,United States - Philadelphia,New York,39649,North
+CUST-703,Gerald Shaffer,Corporate,United States - Washington,Kentucky,37044,West
+CUST-704,Kristin Morris,Corporate,United States - Jacksonville,Missouri,70870,Central
+CUST-705,Sarah Williams,Corporate,United States - Fort Worth,Nebraska,63306,West
+CUST-706,Christopher Carson,Corporate,United States - Columbus,Hawaii,28495,Central
+CUST-707,Mary Rowland,Consumer,United States - Jacksonville,Ohio,54653,Central
+CUST-708,Michelle Diaz,Consumer,United States - Phoenix,New Jersey,50061,East
+CUST-709,David Holmes,Consumer,United States - San Diego,Arkansas,6109,Central
+CUST-710,Angela Ali,Home Office,United States - New York,New Mexico,81435,Central
+CUST-711,James Martin,Home Office,United States - San Francisco,Pennsylvania,9369,West
+CUST-712,Melissa Gallegos,Consumer,United States - Phoenix,Georgia,90936,East
+CUST-713,Michelle Bennett,Consumer,United States - Houston,Kentucky,96932,West
+CUST-714,Tyler Anderson,Home Office,United States - Phoenix,Rhode Island,86355,West
+CUST-715,Jose Morris,Corporate,United States - New York,Maine,9646,North
+CUST-716,Matthew Wagner,Corporate,United States - Philadelphia,South Carolina,60208,East
+CUST-717,Diana Johnson,Consumer,United States - New York,Oklahoma,30507,North
+CUST-718,Jose Jackson,Consumer,United States - Houston,New York,38336,North
+CUST-719,Natalie Summers,Home Office,United States - San Antonio,Iowa,10665,West
+CUST-720,Sharon Morse,Home Office,United States - Philadelphia,Kansas,57171,North
+CUST-721,Jessica Mitchell,Home Office,United States - San Jose,Wyoming,49479,South
+CUST-722,Thomas Williams,Corporate,United States - Charlotte,Utah,19872,West
+CUST-723,Derrick Ortiz,Corporate,United States - Houston,Oklahoma,43244,South
+CUST-724,Mark Gill,Consumer,United States - Jacksonville,South Carolina,76050,North
+CUST-725,John Stewart,Consumer,United States - New York,Vermont,39603,North
+CUST-726,Brett Rodriguez,Consumer,United States - Austin,Texas,8465,South
+CUST-727,John Hughes,Corporate,United States - Houston,Arkansas,81767,South
+CUST-728,Mrs. Samantha Cruz DDS,Home Office,United States - Denver,Florida,10715,South
+CUST-729,Patrick Rose,Home Office,United States - Indianapolis,Illinois,94995,Central
+CUST-730,Colton Walker,Home Office,United States - New York,California,31576,North
+CUST-731,Sharon Conway,Consumer,United States - San Francisco,Hawaii,46435,West
+CUST-732,Laura Jarvis,Corporate,United States - Denver,Virginia,62189,Central
+CUST-733,Tamara King,Consumer,United States - San Antonio,Louisiana,38076,West
+CUST-734,Austin Haynes,Consumer,United States - San Diego,New York,80475,North
+CUST-735,Melissa Simpson,Consumer,United States - Dallas,Kansas,44143,North
+CUST-736,Roy Jones,Consumer,United States - Columbus,Connecticut,1324,South
+CUST-737,Jessica Peterson,Corporate,United States - Houston,Kansas,62283,South
+CUST-738,Maria Duarte,Home Office,United States - Phoenix,New Jersey,10144,North
+CUST-739,Brianna Obrien,Home Office,United States - Jacksonville,Idaho,73074,North
+CUST-740,William Dean,Corporate,United States - Columbus,New Hampshire,43538,North
+CUST-741,Tracy Grant,Consumer,United States - Jacksonville,Wyoming,31836,Central
+CUST-742,Steven Malone,Corporate,United States - Washington,Montana,2388,South
+CUST-743,Danielle Mcclure,Corporate,United States - Seattle,Florida,80622,West
+CUST-744,Lisa Sanders,Home Office,United States - New York,New York,51141,East
+CUST-745,Kim Bailey,Corporate,United States - Charlotte,Tennessee,22313,Central
+CUST-746,Paul Ayala,Consumer,United States - Los Angeles,Mississippi,13041,Central
+CUST-747,Amanda Jackson,Consumer,United States - Seattle,Alaska,85371,East
+CUST-748,Tracy Diaz,Consumer,United States - Phoenix,Illinois,46869,Central
+CUST-749,Mark Washington,Consumer,United States - Denver,Massachusetts,58031,West
+CUST-750,Daniel Archer,Corporate,United States - Fort Worth,Arizona,8686,North
+CUST-751,Gerald Watkins,Home Office,United States - Philadelphia,Ohio,35997,South
+CUST-752,Daniel Lewis,Consumer,United States - Phoenix,Virginia,29545,South
+CUST-753,Carrie Rios,Corporate,United States - San Diego,New Hampshire,47458,West
+CUST-754,Christine Perez,Corporate,United States - San Diego,Montana,17477,South
+CUST-755,Dennis Miller,Home Office,United States - Fort Worth,Delaware,4676,West
+CUST-756,Daniel Hill,Home Office,United States - Philadelphia,Tennessee,36467,West
+CUST-757,Jasmine Turner,Consumer,United States - Los Angeles,California,25133,Central
+CUST-758,Justin Huffman,Home Office,United States - Philadelphia,Louisiana,83375,North
+CUST-759,Terry Patel,Home Office,United States - Houston,Pennsylvania,35114,East
+CUST-760,Lawrence Allen,Corporate,United States - Philadelphia,New Hampshire,18796,West
+CUST-761,Lisa Castro,Consumer,United States - Austin,Minnesota,2428,Central
+CUST-762,Lori Sullivan,Home Office,United States - San Diego,Utah,57397,Central
+CUST-763,Jesus Lyons,Consumer,United States - San Antonio,Pennsylvania,86438,North
+CUST-764,Kari Johnson,Home Office,United States - Philadelphia,Montana,92874,East
+CUST-765,Dylan Owens,Home Office,United States - Dallas,Maine,11073,South
+CUST-766,Wendy Riley,Corporate,United States - Washington,South Dakota,35432,South
+CUST-767,Charles Flores,Home Office,United States - Dallas,Nebraska,86540,Central
+CUST-768,Wendy Hernandez,Consumer,United States - Dallas,Maryland,8959,South
+CUST-769,Kurt Cherry,Consumer,United States - Fort Worth,Washington,72492,Central
+CUST-770,Amanda Miller MD,Corporate,United States - Washington,North Dakota,69933,East
+CUST-771,Michael Evans,Home Office,United States - Phoenix,South Carolina,31907,West
+CUST-772,Austin Newman,Home Office,United States - Dallas,Virginia,8941,Central
+CUST-773,Vanessa Cook,Consumer,United States - San Francisco,Connecticut,21134,South
+CUST-774,Matthew Gould,Consumer,United States - Jacksonville,Pennsylvania,3170,West
+CUST-775,Joseph Hammond,Corporate,United States - Jacksonville,Tennessee,52954,South
+CUST-776,Jennifer Moore,Consumer,United States - Jacksonville,Utah,82335,West
+CUST-777,Brenda Holmes,Consumer,United States - Washington,Florida,71149,North
+CUST-778,Chad Rowland,Consumer,United States - Seattle,Washington,83528,West
+CUST-779,Donna Knight,Home Office,United States - Indianapolis,Kansas,27230,East
+CUST-780,Christopher Johnson,Consumer,United States - Jacksonville,Massachusetts,59184,Central
+CUST-781,Teresa Neal,Home Office,United States - Chicago,Michigan,98758,Central
+CUST-782,Roy Ruiz,Consumer,United States - Philadelphia,Montana,81421,North
+CUST-783,Mary Chase,Home Office,United States - Charlotte,Wisconsin,34899,East
+CUST-784,Jeffrey Schaefer,Consumer,United States - Philadelphia,Rhode Island,57451,West
+CUST-785,Kyle Young,Corporate,United States - Los Angeles,Iowa,93592,East
+CUST-786,Carmen Schneider,Home Office,United States - San Diego,Connecticut,99716,Central
+CUST-787,Ryan Hubbard,Corporate,United States - Fort Worth,Maine,68147,West
+CUST-788,Lauren Marshall,Corporate,United States - Fort Worth,Indiana,62042,East
+CUST-789,Brandon Bentley,Consumer,United States - Phoenix,Illinois,56191,West
+CUST-790,Lauren Holmes,Consumer,United States - Dallas,Missouri,96556,East
+CUST-791,Bill Conley,Corporate,United States - Philadelphia,Nebraska,16170,North
+CUST-792,Brian Young,Consumer,United States - San Antonio,Hawaii,79988,North
+CUST-793,Joseph Burton,Consumer,United States - Indianapolis,Maryland,89965,North
+CUST-794,Christopher Fischer,Consumer,United States - Phoenix,Texas,94818,South
+CUST-795,Miranda Mckenzie DDS,Home Office,United States - Philadelphia,Colorado,19131,East
+CUST-796,Morgan Huff,Corporate,United States - Indianapolis,Texas,51288,North
+CUST-797,Tiffany Chavez,Home Office,United States - Fort Worth,North Dakota,61800,West
+CUST-798,Joseph Higgins,Corporate,United States - Houston,Massachusetts,31803,North
+CUST-799,Tyler Arnold PhD,Corporate,United States - Philadelphia,Colorado,64699,East
+CUST-800,Jill Herrera,Consumer,United States - San Jose,North Carolina,7384,East
+CUST-801,Brent Mckinney,Home Office,United States - San Francisco,Louisiana,39043,East
+CUST-802,Kelli Smith,Home Office,United States - Los Angeles,Indiana,24241,North
+CUST-803,Jacob Martin,Corporate,United States - Houston,Ohio,6189,North
+CUST-804,Emily Sanchez,Consumer,United States - San Francisco,Connecticut,25520,Central
+CUST-805,Audrey Morris,Corporate,United States - Columbus,Nebraska,87739,North
+CUST-806,Michele Hawkins,Corporate,United States - Indianapolis,Utah,68143,South
+CUST-807,Lisa Booth,Corporate,United States - Columbus,Colorado,41180,East
+CUST-808,Melissa Landry,Consumer,United States - Jacksonville,North Dakota,33237,Central
+CUST-809,Sean Nielsen,Corporate,United States - Chicago,North Dakota,11538,West
+CUST-810,Dr. Joshua Rivera Jr.,Corporate,United States - Charlotte,Arizona,87510,East
+CUST-811,Shelby Brown,Home Office,United States - Los Angeles,Pennsylvania,25699,East
+CUST-812,Christopher Roberts,Home Office,United States - San Jose,Michigan,29621,East
+CUST-813,Ronald Owens,Home Office,United States - Jacksonville,Iowa,60477,South
+CUST-814,Michael Kelly,Home Office,United States - San Diego,Iowa,2969,South
+CUST-815,Jordan Glover,Home Office,United States - Austin,Rhode Island,7207,East
+CUST-816,Melanie Fischer,Consumer,United States - San Antonio,Nevada,11379,West
+CUST-817,Sara Tapia,Corporate,United States - Seattle,Florida,50479,Central
+CUST-818,Michael Alexander,Corporate,United States - Austin,Minnesota,4855,North
+CUST-819,Angel Davis,Home Office,United States - Chicago,Texas,24362,North
+CUST-820,Justin Villanueva,Corporate,United States - San Francisco,Oklahoma,52459,North
+CUST-821,Rebecca Floyd,Corporate,United States - San Francisco,Tennessee,86777,North
+CUST-822,Mrs. Amber Frank MD,Corporate,United States - San Francisco,Louisiana,43707,South
+CUST-823,Ryan Perez,Consumer,United States - Seattle,Texas,34764,East
+CUST-824,David Harrison,Corporate,United States - Indianapolis,Wisconsin,4952,Central
+CUST-825,Justin Barnes,Consumer,United States - Jacksonville,Nevada,88934,West
+CUST-826,Angela Bruce,Corporate,United States - Denver,Montana,28876,North
+CUST-827,Tammy Marshall,Consumer,United States - Denver,Kentucky,33158,East
+CUST-828,Whitney Williams,Home Office,United States - San Francisco,South Dakota,68931,Central
+CUST-829,Phillip Huynh,Home Office,United States - San Francisco,Missouri,89708,Central
+CUST-830,Henry Williamson,Corporate,United States - San Diego,Colorado,94397,North
+CUST-831,Chelsea Brown,Corporate,United States - Philadelphia,Nevada,28730,West
+CUST-832,Lisa Roberts,Corporate,United States - Denver,Texas,14588,East
+CUST-833,Kayla Hunter,Home Office,United States - Seattle,North Dakota,28738,Central
+CUST-834,Jennifer Williams,Corporate,United States - Washington,Delaware,84702,North
+CUST-835,Richard Gonzalez,Corporate,United States - San Jose,Washington,52335,South
+CUST-836,Mark Hall,Home Office,United States - Los Angeles,Illinois,32805,Central
+CUST-837,James Warner,Corporate,United States - San Antonio,Rhode Island,16590,South
+CUST-838,Timothy Williams,Home Office,United States - San Jose,Michigan,82789,Central
+CUST-839,Ryan Lewis,Home Office,United States - Phoenix,Hawaii,10338,East
+CUST-840,Stacy Hopkins,Corporate,United States - San Francisco,Alabama,38459,East
+CUST-841,Phyllis Smith,Corporate,United States - San Francisco,Minnesota,53024,East
+CUST-842,Lisa Fleming,Consumer,United States - Fort Worth,Tennessee,62909,West
+CUST-843,Leah Hernandez,Consumer,United States - Denver,Idaho,96611,West
+CUST-844,Heather Morrow,Home Office,United States - Washington,Michigan,88457,North
+CUST-845,Gary Holden,Corporate,United States - Chicago,Texas,75541,West
+CUST-846,Kristin Washington,Consumer,United States - San Francisco,New York,55537,North
+CUST-847,Dr. Christian Hoffman,Corporate,United States - Seattle,Wyoming,75964,East
+CUST-848,Troy Murray,Consumer,United States - Chicago,Idaho,64689,Central
+CUST-849,Troy Johnson,Home Office,United States - New York,West Virginia,31130,West
+CUST-850,Jared Grimes,Corporate,United States - Indianapolis,California,63873,East
+CUST-851,Matthew Valenzuela,Corporate,United States - San Antonio,Iowa,39956,South
+CUST-852,Emily Williams,Corporate,United States - San Antonio,Wyoming,52747,Central
+CUST-853,Michael Lane,Corporate,United States - Seattle,Missouri,41347,South
+CUST-854,Justin Dalton,Home Office,United States - Houston,Illinois,91583,North
+CUST-855,Kristen Reed,Home Office,United States - San Francisco,North Carolina,17865,West
+CUST-856,Philip Mcgee,Home Office,United States - San Francisco,North Carolina,74639,North
+CUST-857,Tammy Reed,Corporate,United States - San Antonio,Oregon,89141,East
+CUST-858,John King,Home Office,United States - Jacksonville,Nebraska,96976,East
+CUST-859,Stephanie Williams,Corporate,United States - Philadelphia,New York,81702,East
+CUST-860,Christopher Bowers,Home Office,United States - Columbus,Idaho,48699,Central
+CUST-861,Jason Potts,Consumer,United States - Jacksonville,Idaho,65965,South
+CUST-862,John Walker,Consumer,United States - Austin,Florida,85957,North
+CUST-863,Jason Mitchell,Corporate,United States - Houston,Vermont,23164,East
+CUST-864,Victoria Davis,Consumer,United States - Fort Worth,Utah,62652,North
+CUST-865,Jeff Aguirre,Corporate,United States - Charlotte,Idaho,11957,East
+CUST-866,Zachary Cardenas,Corporate,United States - Denver,West Virginia,38494,East
+CUST-867,Brooke Johnson,Corporate,United States - Chicago,Idaho,10717,West
+CUST-868,Sara Henderson,Corporate,United States - Denver,Virginia,1499,South
+CUST-869,John Murphy,Corporate,United States - Phoenix,Alaska,37257,North
+CUST-870,Michael Curry,Consumer,United States - Austin,Oregon,22217,South
+CUST-871,Leslie Cain,Home Office,United States - Austin,Mississippi,23818,West
+CUST-872,Erica Chapman,Corporate,United States - New York,New Mexico,57263,Central
+CUST-873,Christopher Mckenzie,Consumer,United States - San Jose,Colorado,73805,South
+CUST-874,James Hobbs,Corporate,United States - Phoenix,Missouri,16672,East
+CUST-875,Seth Brown,Corporate,United States - Los Angeles,West Virginia,92901,Central
+CUST-876,Leah Allen DDS,Consumer,United States - Fort Worth,New York,62660,North
+CUST-877,Robert Miller,Home Office,United States - San Francisco,Texas,42823,East
+CUST-878,Lori Elliott,Corporate,United States - Dallas,Texas,55175,South
+CUST-879,Dr. David Lopez DDS,Corporate,United States - Austin,South Dakota,12415,South
+CUST-880,Chad Lynch,Home Office,United States - Houston,Minnesota,66981,North
+CUST-881,Cindy Daniels,Corporate,United States - Seattle,Utah,29617,South
+CUST-882,Lisa Townsend,Home Office,United States - Chicago,Nevada,65795,North
+CUST-883,Mark Morris,Home Office,United States - Fort Worth,Oregon,33644,South
+CUST-884,Diana Carroll,Consumer,United States - Jacksonville,Maryland,18736,South
+CUST-885,Christian Griffith,Corporate,United States - Phoenix,Iowa,66035,Central
+CUST-886,Mary Christian,Consumer,United States - Charlotte,Alabama,47862,South
+CUST-887,Lisa Herrera,Corporate,United States - Fort Worth,New Hampshire,28959,North
+CUST-888,Linda Harris,Corporate,United States - Seattle,Nebraska,28534,East
+CUST-889,Michelle Baker,Corporate,United States - Chicago,West Virginia,71727,West
+CUST-890,Bethany Jones,Home Office,United States - Columbus,Nebraska,11756,East
+CUST-891,Ashley Mcdowell,Corporate,United States - Houston,Utah,93088,North
+CUST-892,Sarah Smith,Corporate,United States - San Jose,California,48537,North
+CUST-893,Angela Lowery,Home Office,United States - Washington,Indiana,35983,South
+CUST-894,Morgan Wong,Corporate,United States - Los Angeles,New York,30585,Central
+CUST-895,Heather Graham,Consumer,United States - Jacksonville,Iowa,40460,Central
+CUST-896,Tracey Morrison,Corporate,United States - Houston,Arizona,65687,East
+CUST-897,Diana Flowers,Corporate,United States - Seattle,Alabama,60770,Central
+CUST-898,Sandra Patton,Home Office,United States - Seattle,South Carolina,30081,West
+CUST-899,Diamond Hale,Consumer,United States - Washington,Vermont,91947,East
+CUST-900,Molly Johnson,Consumer,United States - Chicago,Connecticut,71168,West
+CUST-901,Donald Hill,Home Office,United States - Chicago,Alaska,86709,Central
+CUST-902,Julie Martinez,Consumer,United States - Dallas,New Jersey,22431,South
+CUST-903,Connor Rogers,Consumer,United States - San Diego,Florida,63738,East
+CUST-904,Daniel Smith,Consumer,United States - Jacksonville,Kansas,56461,West
+CUST-905,Allison Perry,Corporate,United States - Fort Worth,Rhode Island,18709,West
+CUST-906,Angela Owens,Consumer,United States - Phoenix,Vermont,67592,East
+CUST-907,Kimberly Johnson,Home Office,United States - Washington,Arkansas,23097,South
+CUST-908,Sean Hunter,Corporate,United States - Houston,Illinois,55477,West
+CUST-909,Andrew Wilson,Corporate,United States - Chicago,Louisiana,17939,West
+CUST-910,Jeffrey Mccarthy,Corporate,United States - Los Angeles,Montana,40020,South
+CUST-911,Joshua Kirby,Corporate,United States - Phoenix,Alabama,30182,Central
+CUST-912,Thomas Porter,Home Office,United States - San Antonio,Tennessee,18364,West
+CUST-913,Mary Mathis,Corporate,United States - Phoenix,Hawaii,82739,North
+CUST-914,Amanda Ross,Home Office,United States - San Francisco,Louisiana,33579,South
+CUST-915,Christopher Villarreal,Consumer,United States - San Jose,Vermont,26317,Central
+CUST-916,Elizabeth Morris,Consumer,United States - San Antonio,Delaware,28002,South
+CUST-917,Rebecca Vincent,Consumer,United States - Columbus,Oregon,34005,East
+CUST-918,John Mills,Corporate,United States - Fort Worth,Colorado,37424,West
+CUST-919,Jimmy Taylor,Home Office,United States - Denver,Kansas,91512,North
+CUST-920,Christopher Sanchez,Consumer,United States - Philadelphia,Wisconsin,20406,South
+CUST-921,Scott Briggs,Corporate,United States - Columbus,Kansas,81412,East
+CUST-922,Matthew Davies,Home Office,United States - Austin,New Hampshire,22506,West
+CUST-923,Kenneth Rowe,Home Office,United States - Fort Worth,Tennessee,15174,West
+CUST-924,Hailey Sanchez,Home Office,United States - San Jose,Florida,15475,West
+CUST-925,Michael Cortez,Corporate,United States - Seattle,Delaware,77724,South
+CUST-926,Shari White,Corporate,United States - Dallas,Minnesota,12993,East
+CUST-927,Daniel Nguyen,Corporate,United States - San Francisco,Vermont,86915,South
+CUST-928,Amanda Phillips,Consumer,United States - Jacksonville,Kansas,35219,North
+CUST-929,Stephanie Mclean,Corporate,United States - Jacksonville,Michigan,23523,South
+CUST-930,Andrew Hood,Home Office,United States - Dallas,Michigan,81263,Central
+CUST-931,Daniel Harrison,Consumer,United States - Fort Worth,Tennessee,62200,Central
+CUST-932,Jamie Ellis,Consumer,United States - San Jose,Connecticut,93511,North
+CUST-933,Laura Nguyen,Home Office,United States - Dallas,West Virginia,67097,Central
+CUST-934,Matthew Terry,Home Office,United States - Washington,Wyoming,97026,East
+CUST-935,Cory Pittman,Consumer,United States - New York,Kentucky,68353,North
+CUST-936,Pamela Blake,Corporate,United States - San Antonio,Mississippi,90575,Central
+CUST-937,Sarah Becker,Consumer,United States - Phoenix,Illinois,57310,South
+CUST-938,Jordan Davis,Corporate,United States - Phoenix,Ohio,32428,East
+CUST-939,Jay Smith,Corporate,United States - San Jose,Wisconsin,65397,South
+CUST-940,Ronald Norman,Consumer,United States - San Francisco,Texas,15190,West
+CUST-941,Stephen Rodriguez,Corporate,United States - Phoenix,Delaware,12576,South
+CUST-942,Nicole Payne,Consumer,United States - Phoenix,Montana,34790,West
+CUST-943,Christopher Mckinney,Home Office,United States - San Francisco,Alabama,68306,South
+CUST-944,Monique Kelley,Consumer,United States - Jacksonville,Alabama,5285,Central
+CUST-945,Cory Conway,Corporate,United States - Indianapolis,Colorado,10667,South
+CUST-946,Stephanie Meadows,Consumer,United States - Philadelphia,New Jersey,31723,West
+CUST-947,Nancy Jackson,Home Office,United States - Denver,South Dakota,56607,East
+CUST-948,Adam Rodriguez,Home Office,United States - Phoenix,Ohio,83543,North
+CUST-949,Jamie Owen,Home Office,United States - Indianapolis,Georgia,66179,North
+CUST-950,Deborah Arroyo,Corporate,United States - Chicago,Missouri,59423,East
+CUST-951,Mason Briggs,Home Office,United States - Los Angeles,Arizona,66039,West
+CUST-952,Howard Robinson,Consumer,United States - San Francisco,Iowa,94977,Central
+CUST-953,James Robinson,Home Office,United States - Seattle,Iowa,56102,Central
+CUST-954,Mrs. Alejandra Lawson,Corporate,United States - Washington,California,53676,North
+CUST-955,Joseph Hayes,Consumer,United States - Charlotte,Nevada,6972,Central
+CUST-956,Robert Garza,Corporate,United States - Houston,North Carolina,37632,North
+CUST-957,Gregory Rodriguez,Consumer,United States - Jacksonville,Rhode Island,23256,West
+CUST-958,Angela Tate,Corporate,United States - Austin,Delaware,86662,East
+CUST-959,Karen Adams,Corporate,United States - Washington,Georgia,36254,East
+CUST-960,Jacqueline Burton,Home Office,United States - Seattle,Ohio,10433,North
+CUST-961,Aaron Brown,Corporate,United States - San Diego,North Carolina,70778,North
+CUST-962,Cory Summers,Home Office,United States - San Jose,North Dakota,64454,West
+CUST-963,Kelly Stephens,Home Office,United States - New York,Florida,59140,East
+CUST-964,Cheryl Klein,Corporate,United States - Austin,Oregon,49870,Central
+CUST-965,Patricia Vasquez,Home Office,United States - Washington,Kansas,9449,North
+CUST-966,Dr. Jody Stone,Corporate,United States - Los Angeles,Iowa,6906,North
+CUST-967,Cassidy Vaughn,Corporate,United States - Denver,Texas,9952,North
+CUST-968,Heather Gray,Corporate,United States - Seattle,Utah,80670,West
+CUST-969,Brian Strickland,Consumer,United States - Phoenix,Florida,92793,Central
+CUST-970,Scott Thomas,Corporate,United States - Philadelphia,Hawaii,32913,South
+CUST-971,David Wood,Home Office,United States - Fort Worth,Oregon,57599,North
+CUST-972,Nathaniel Davis,Home Office,United States - Denver,Kansas,88257,South
+CUST-973,Sarah Eaton,Consumer,United States - San Diego,New York,37806,North
+CUST-974,Rachel Grant,Corporate,United States - Columbus,New Hampshire,1303,East
+CUST-975,Debra Nixon,Corporate,United States - San Jose,Ohio,13098,Central
+CUST-976,Elizabeth Burton,Consumer,United States - Indianapolis,Arizona,35010,North
+CUST-977,Carol Cochran,Home Office,United States - New York,Louisiana,30868,Central
+CUST-978,Richard Bean,Corporate,United States - Dallas,Missouri,19015,West
+CUST-979,Beverly Keith,Corporate,United States - Denver,New Jersey,37819,East
+CUST-980,Bradley Watson,Home Office,United States - Philadelphia,Florida,72445,North
+CUST-981,Mr. Kyle Lucas,Consumer,United States - San Diego,South Carolina,94353,East
+CUST-982,Kevin Snyder,Home Office,United States - Philadelphia,Connecticut,3059,East
+CUST-983,Cole Brown,Consumer,United States - Columbus,Indiana,60179,Central
+CUST-984,James Khan,Corporate,United States - Seattle,New Hampshire,62664,West
+CUST-985,Christopher Brown,Home Office,United States - Columbus,Missouri,87830,East
+CUST-986,Brian Roberts,Corporate,United States - Columbus,Indiana,87836,West
+CUST-987,Cody Patterson,Home Office,United States - Indianapolis,Mississippi,74106,North
+CUST-988,Katelyn Whitney,Home Office,United States - Austin,Alaska,78079,South
+CUST-989,Jennifer Taylor,Consumer,United States - Denver,New York,61090,East
+CUST-990,Katherine Richardson,Corporate,United States - Denver,Oklahoma,86086,West
+CUST-991,Sarah Saunders,Home Office,United States - Charlotte,Oregon,24392,West
+CUST-992,Joshua Moore,Corporate,United States - Phoenix,Oregon,58936,North
+CUST-993,Michael Brown,Corporate,United States - Phoenix,Ohio,91246,West
+CUST-994,Mary Blankenship MD,Corporate,United States - Houston,Indiana,2647,North
+CUST-995,Daniel Andrews,Home Office,United States - Phoenix,Michigan,51979,Central
+CUST-996,Melinda Castillo,Corporate,United States - Houston,Indiana,59877,East
+CUST-997,Jared Gallagher,Consumer,United States - Charlotte,Colorado,36601,East
+CUST-998,Eric Payne,Consumer,United States - Indianapolis,Mississippi,85524,East
+CUST-999,Michael Brown,Home Office,United States - Dallas,Rhode Island,57234,North
+CUST-1000,Mary Barrett,Corporate,United States - Denver,Connecticut,95613,Central

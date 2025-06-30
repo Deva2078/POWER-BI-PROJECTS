@@ -1,6 +1,6 @@
 # POWER-BI-PROJECTS
 INTERACTIVE BUSINESS INTELLIGENCE DASHBOARDS USING POWER BI
 
-## 📊 Dashboard Overview
+## 🖼️ Visual Dashboard Links
 
-[![Dashboard Preview](images/dashboard-preview.png)](Dashboard.pdf)
+[![Retail Dashboard](docs/images/retail_preview.png)](docs/Weather.pdf)

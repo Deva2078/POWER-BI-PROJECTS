@@ -5,4 +5,4 @@ INTERACTIVE BUSINESS INTELLIGENCE DASHBOARDS USING POWER BI
 
 ## 📄 Dashboard PDFs
 
-- [Weather Dashboard (PDF)](docs/Weather.pdf)
+- [Weather Dashboard (PDF)](docs/Weather Report.pdf)

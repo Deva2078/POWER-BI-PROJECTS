@@ -18,16 +18,16 @@ power-bi-projects/
 
 ## 📄 Dashboard PDFs
 
-- [Costco Sales Dashboard](docs/Costco_Sales_Dashboard.pdf)  
+- [Costco Sales Dashboard](docs/costco_design.pdf)  
   Net sales, profit margins, customer segments, regional sales trends.
 
-- [Google Trends Dashboard](docs/Google_Trends_Insights.pdf)  
+- [Google Trends Dashboard](docs/G'Trends.pdf)  
   Keyword popularity over time, regional interest, trend forecasting.
 
-- [PwC Call Centre Analysis](docs/PwC_Call_Centre_Analysis.pdf)  
+- [PwC Call Centre Analysis](docs/PWC.pdf)  
   Call volume, agent performance, customer wait times, and resolution rates.
 
-- [Weather Forecast Analytics](docs/Weather_Forecast_Analytics.pdf)  
+- [Weather Forecast Analytics](docs/Weather_Report.pdf)  
   Temperature trends, precipitation forecasts, air quality, and alerts.
 
 ---

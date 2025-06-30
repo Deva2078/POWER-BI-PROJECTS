@@ -6,12 +6,13 @@ Welcome to my Power BI project repository! This collection showcases interactive
 
 ## 📁 Repository Structure
 
+\```
 power-bi-projects/
 ├── docs/
-│ ├── Costco_Sales_Dashboard.pdf
-│ ├── Google_Trends_Insights.pdf
-│ ├── PwC_Call_Centre_Analysis.pdf
-│ ├── Weather_Forecast_Analytics.pdf
+│   ├── Costco_Sales_Dashboard.pdf
+│   ├── Google_Trends_Insights.pdf
+│   ├── PwC_Call_Centre_Analysis.pdf
+│
 
 
 ---

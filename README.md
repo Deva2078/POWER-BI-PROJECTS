@@ -64,16 +64,7 @@ To view dashboards online:
 ---
 
 ## 📬 Contact
-
-<h3>✍️ Author</h3>
-<p><strong>Deva the Analyst</strong><br>
-Machine Learning & Data Science Enthusiast</p>
+<p><strong>Deva </strong><br>
+Full Stack Developer | Data Analyst | Machine Learning | BI Developer </p>
 <p>📧 Email: <a href="mailto:devasivanagasai@gmail.com">devasivanagasai@gmail.com</a><br>
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/deva-siva-naga-sai-boddu-841984228/" target="_blank">Deva the Analyst</a><br>
-💻 GitHub: <a href="https://github.com/Deva2078" target="_blank">Deva2078</a></p>
-
----
-
-## 📎 Additional Info
-
-Feel free to fork or download this repository for learning, reference, or integration into your own Power BI portfolio. Contributions and suggestions are welcome!
